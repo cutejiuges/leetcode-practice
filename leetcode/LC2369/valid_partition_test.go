@@ -1,23 +1,24 @@
 package lc2369
 
-import "testing"
+import (
+	"cutejiuge/leetcode-practice/util"
+	"testing"
+)
+
+type TestData map[string]struct {
+	Nums      []int `yaml:"Nums"`
+	ExpectRes bool  `yaml:"ExpectRes"`
+}
 
 func TestValidPartition(t *testing.T) {
-	testData := map[string][]int{
-		"case1": {4, 4, 4, 5, 6},
-		"case2": {1, 1, 1, 2},
-	}
-	expectRes := map[string]bool{
-		"case1": true,
-		"case2": false,
-	}
+	var testData TestData
+	util.DataProvide(&testData)
 	for key, val := range testData {
-		caseName := key
-		caseData := val
+		caseName, caseData := key, val
 		t.Run(caseName, func(t *testing.T) {
-			res := validPartition(caseData)
-			if res != expectRes[caseName] {
-				t.Error(caseData, "结果不符合预期")
+			res := validPartition(caseData.Nums)
+			if res != caseData.ExpectRes {
+				t.Errorf("%s, res = %v, ExpectRes = %v", caseName, res, caseData.ExpectRes)
 			}
 		})
 	}

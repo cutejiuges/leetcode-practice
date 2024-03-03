@@ -1,33 +1,22 @@
 package lc2368
 
-import "testing"
+import (
+	"cutejiuge/leetcode-practice/util"
+	"testing"
+)
 
-type TestData struct {
-	N          int
-	Edges      [][]int
-	Restricted []int
-	ExpectRes  int
+type TestData map[string]struct {
+	N          int     `yaml:"N"`
+	Edges      [][]int `yaml:"Edges"`
+	Restricted []int   `yaml:"Restricted"`
+	ExpectRes  int     `yaml:"ExpectRes"`
 }
 
 func TestReachableNodes(t *testing.T) {
-	testData := map[string]TestData{
-		"case1": {
-			N:          7,
-			Edges:      [][]int{{0, 1}, {1, 2}, {3, 1}, {4, 0}, {0, 5}, {5, 6}},
-			Restricted: []int{4, 5},
-			ExpectRes:  4,
-		},
-		"case2": {
-			N:          7,
-			Edges:      [][]int{{0, 1}, {0, 2}, {0, 5}, {0, 4}, {3, 2}, {6, 5}},
-			Restricted: []int{4, 2, 1},
-			ExpectRes:  3,
-		},
-	}
-
+	var testData TestData
+	util.DataProvide(&testData)
 	for key, val := range testData {
-		caseName := key
-		caseData := val
+		caseName, caseData := key, val
 		t.Run(caseName, func(t *testing.T) {
 			res := reachableNodes(caseData.N, caseData.Edges, caseData.Restricted)
 			if res != caseData.ExpectRes {

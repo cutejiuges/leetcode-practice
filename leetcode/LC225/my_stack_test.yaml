@@ -1,0 +1,4 @@
+case1:
+  Operate: ["MyStack", "push", "push", "top", "pop", "empty"]
+  Nums: [[], [1], [2], [], [], []]
+  ExpectRes: ["null", "null", "null", 2, 2, false]
