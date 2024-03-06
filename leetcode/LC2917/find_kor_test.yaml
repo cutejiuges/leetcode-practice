@@ -1,0 +1,14 @@
+"case1":
+  Nums: [7,12,9,8,9,15]
+  K: 4
+  ExpectRes: 9
+
+"case2":
+  Nums: [2,12,1,11,4,5]
+  K: 6
+  ExpectRes: 0
+
+"case3":
+  Nums: [10,8,5,9,11,6,8]
+  K: 1
+  ExpectRes: 15
