@@ -1,0 +1,9 @@
+"case1":
+  N: 2
+  Target: 3
+  ExpectRes: 4
+
+"case2":
+  N: 3
+  Target: 3
+  ExpectRes: 8
