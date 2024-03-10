@@ -1,0 +1,11 @@
+case1:
+  Title: "capiTalIze tHe titLe"
+  ExpectRes: "Capitalize The Title"
+
+case2:
+  Title: "First leTTeR of EACH Word"
+  ExpectRes: "First Letter of Each Word"
+
+case3:
+  Title: "i lOve leetcode"
+  ExpectRes: "i Love Leetcode"
