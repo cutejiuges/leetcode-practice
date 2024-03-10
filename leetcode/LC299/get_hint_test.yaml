@@ -1,0 +1,9 @@
+"case1":
+  Secret: "1807"
+  Guess: "7810"
+  ExpectRes: "1A3B"
+
+"case2":
+  Secret: "1123"
+  Guess: "0111"
+  ExpectRes: "1A1B"
