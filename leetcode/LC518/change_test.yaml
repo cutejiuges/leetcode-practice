@@ -1,0 +1,14 @@
+case1:
+  Amount: 5
+  Coins: [1, 2, 5]
+  ExpectRes: 4
+
+case2:
+  Amount: 3
+  Coins: [2]
+  ExpectRes: 0
+
+case3:
+  Amount: 10
+  Coins: [10]
+  ExpectRes: 1

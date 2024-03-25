@@ -1,0 +1,7 @@
+case1:
+  N: 2
+  ExpectRes: 2
+
+case2:
+  N: 3
+  ExpectRes: 3
