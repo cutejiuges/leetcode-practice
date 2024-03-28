@@ -1,0 +1,11 @@
+case1:
+  NextVisit: [0,0]
+  ExpectRes: 2
+
+case2:
+  NextVisit: [0,0,2]
+  ExpectRes: 6
+
+case3:
+  NextVisit: [0,1,2,0]
+  ExpectRes: 6

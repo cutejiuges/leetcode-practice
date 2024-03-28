@@ -1,0 +1,7 @@
+case1:
+  Ranges: [[6,10],[5,15]]
+  ExpectRes: 2
+
+case2:
+  Ranges: [[1,3],[10,20],[2,5],[4,8]]
+  ExpectRes: 4
