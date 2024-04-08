@@ -1,0 +1,11 @@
+case1:
+  Nums: [4,2,5,3]
+  ExpectRes: 0
+
+case2:
+  Nums: [1,2,3,5,6]
+  ExpectRes: 1
+
+case3:
+  Nums: [1,10,100,1000]
+  ExpectRes: 3
