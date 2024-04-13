@@ -1,0 +1,9 @@
+case1:
+  N: 3
+  Edges: [[0,1],[1,2]]
+  ExpectRes: 0
+
+case2:
+  N: 4
+  Edges: [[0,2],[1,3],[1,2]]
+  ExpectRes: -1

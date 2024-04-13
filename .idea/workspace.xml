@@ -23,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -34,55 +37,105 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;Go Test.TestPrint in cutejiuge/leetcode-practice/leetcode/LC1600.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/wujie&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2923.executor": "Run",
+    "Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2924.executor": "Run",
+    "Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2923.executor": "Run",
+    "Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2924.executor": "Run",
+    "Go Test.TestGetCoprimes in cutejiuge/leetcode-practice/leetcode/LC1766.executor": "Run",
+    "Go Test.TestMinOperations in cutejiuge/leetcode-practice/leetcode/LC2009.executor": "Run",
+    "Go Test.TestPrint in cutejiuge/leetcode-practice/leetcode/LC1600.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/home/wujie/myFile/GoCode/letcode-practice/leetcode/LC2924",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "fileTemplates"
   }
-}</component>
-  <component name="RunManager" selected="Go Test.TestMinOperations in cutejiuge/leetcode-practice/leetcode/LC2009">
-    <configuration name="TestMinOperations in cutejiuge/leetcode-practice/leetcode/LC2009" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/leetcode/LC2924" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2924">
+    <configuration name="TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2923" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC2009" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC2923" />
       <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC2009" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC2923" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestMinOperations\E$" />
+      <pattern value="^\QTestFindChampion\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestPrint in cutejiuge/leetcode-practice/leetcode/LC1600" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2924" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC1600" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC2924" />
       <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC1600" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC2924" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestPrint\E$" />
+      <pattern value="^\QTestFindChampion\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2923" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC2923" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC2923" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestFindChampion2\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2924" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC2924" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC2924" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestFindChampion2\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetCoprimes in cutejiuge/leetcode-practice/leetcode/LC1766" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC1766" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC1766" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestGetCoprimes\E$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestMinOperations in cutejiuge/leetcode-practice/leetcode/LC2009" />
-        <item itemvalue="Go Test.TestPrint in cutejiuge/leetcode-practice/leetcode/LC1600" />
+        <item itemvalue="Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2924" />
+        <item itemvalue="Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2924" />
+        <item itemvalue="Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2923" />
+        <item itemvalue="Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2923" />
+        <item itemvalue="Go Test.TestGetCoprimes in cutejiuge/leetcode-practice/leetcode/LC1766" />
       </list>
     </recent_temporary>
   </component>
