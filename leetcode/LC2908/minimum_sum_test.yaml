@@ -1,0 +1,11 @@
+case1:
+  Nums: [8,6,1,5,3]
+  ExpectRes: 9
+
+case2:
+  Nums: [5,4,8,7,10,2]
+  ExpectRes: 13
+
+case3:
+  Nums: [6,5,4,3,4,5]
+  ExpectRes: -1

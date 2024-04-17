@@ -1,0 +1,15 @@
+case1:
+  Preorder: "9,3,4,#,#,1,#,#,2,#,6,#,#"
+  ExpectRes: true
+
+case2:
+  Preorder: "1,#"
+  ExpectRes: false
+
+case3: 
+  Preorder: "9,#,#,1"
+  ExpectRes: false
+
+case4:
+  Preorder: "7,2,#,2,#,#,#,6,#"
+  ExpectRes: false

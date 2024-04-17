@@ -1,0 +1,7 @@
+case1:
+  S: "string"
+  ExpectRes: "rtsng"
+
+case2:
+  S: "poiinter"
+  ExpectRes: "ponter"

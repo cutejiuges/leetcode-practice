@@ -1,0 +1,11 @@
+case1:
+  Changed: [1,3,4,2,6,8]
+  ExpectRes: [1,3,4]
+
+case2:
+  Changed: [6,3,0,1]
+  ExpectRes: []
+
+case3:
+  Changed: [1]
+  ExpectRes: []
