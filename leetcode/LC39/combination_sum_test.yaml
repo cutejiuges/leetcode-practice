@@ -1,0 +1,14 @@
+case1:
+  Candidates: [2,3,6,7]
+  Target: 7
+  ExpectRes: [[2,2,3],[7]]
+
+case2:
+  Candidates: [2,3,5]
+  Target: 8
+  ExpectRes: [[2,2,2,2],[2,3,3],[3,5]]
+
+case3:
+  Candidates: [2]
+  Target: 1
+  ExpectRes: []
