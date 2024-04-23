@@ -46,6 +46,7 @@
     "Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2923.executor": "Run",
     "Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2924.executor": "Run",
     "Go Test.TestGetCoprimes in cutejiuge/leetcode-practice/leetcode/LC1766.executor": "Run",
+    "Go Test.TestMaxSatisfied in cutejiuge/leetcode-practice/leetcode/LC1052.executor": "Run",
     "Go Test.TestMinMalwareSpread in cutejiuge/leetcode-practice/leetcode/LC924.executor": "Run",
     "Go Test.TestMinOperations in cutejiuge/leetcode-practice/leetcode/LC2009.executor": "Run",
     "Go Test.TestPrint in cutejiuge/leetcode-practice/leetcode/LC1600.executor": "Run",
@@ -70,7 +71,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC2924" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestCombinationSum in cutejiuge/leetcode-practice/leetcode/LC39">
+  <component name="RunManager" selected="Go Test.TestMaxSatisfied in cutejiuge/leetcode-practice/leetcode/LC1052">
     <configuration name="TestCombinationSum in cutejiuge/leetcode-practice/leetcode/LC39" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC39" />
@@ -81,18 +82,6 @@
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
       <pattern value="^\QTestCombinationSum\E$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2923" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC2923" />
-      <root_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC2923" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestFindChampion\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2924" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -119,6 +108,18 @@
       <pattern value="^\QTestFindChampion2\E$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestMaxSatisfied in cutejiuge/leetcode-practice/leetcode/LC1052" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC1052" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC1052" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestMaxSatisfied\E$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestMinMalwareSpread in cutejiuge/leetcode-practice/leetcode/LC924" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC924" />
@@ -133,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestMaxSatisfied in cutejiuge/leetcode-practice/leetcode/LC1052" />
         <item itemvalue="Go Test.TestCombinationSum in cutejiuge/leetcode-practice/leetcode/LC39" />
         <item itemvalue="Go Test.TestMinMalwareSpread in cutejiuge/leetcode-practice/leetcode/LC924" />
         <item itemvalue="Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2924" />
         <item itemvalue="Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2924" />
-        <item itemvalue="Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2923" />
       </list>
     </recent_temporary>
   </component>
@@ -165,16 +166,5 @@
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/leetcode/LC39/combination_sum_test.go</url>
-          <line>43</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

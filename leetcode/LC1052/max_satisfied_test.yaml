@@ -1,0 +1,11 @@
+case1:
+  Customers: [1,0,1,2,1,1,7,5]
+  Grumpy: [0,1,0,1,0,1,0,1]
+  Minutes: 3
+  ExpectRes: 16
+
+case2:
+  Customers: [1]
+  Grumpy: [0]
+  Minutes: 1
+  ExpectRes: 1
