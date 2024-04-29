@@ -1,0 +1,9 @@
+case1:
+  Hours: [0,1,2,3,4]
+  Target: 2
+  ExpectRes: 3
+
+case2:
+  Hours: [5,1,4,2,2]
+  Target: 6
+  ExpectRes: 0
