@@ -1,0 +1,11 @@
+case1:
+  Costs: [17,12,10,2,7,2,11,20,8]
+  K: 3
+  Candidates: 4
+  ExpectRes: 11
+
+case2:
+  Costs: [1,2,4,1]
+  K: 3
+  Candidates: 3
+  ExpectRes: 4
