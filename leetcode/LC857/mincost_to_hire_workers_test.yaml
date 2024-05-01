@@ -1,0 +1,11 @@
+case1:
+  Quality: [10,20,5]
+  Wage: [70,50,30]
+  K: 2
+  ExpectRes: 105.00000
+
+case2:
+  Quality: [3,1,10,10,1]
+  Wage: [4,8,2,2,7]
+  K: 3
+  ExpectRes: 30.66667
