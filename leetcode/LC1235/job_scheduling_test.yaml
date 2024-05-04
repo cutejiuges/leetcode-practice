@@ -1,0 +1,17 @@
+case1:
+  StartTime: [1,2,3,3]
+  EndTime: [3,4,5,6]
+  Profit: [50,10,40,70]
+  ExpectRes: 120
+
+case2:
+  StartTime: [1,2,3,4,6]
+  EndTime: [3,5,10,6,9]
+  Profit: [20,20,100,70,60]
+  ExpectRes: 150
+
+case3:
+  StartTime: [1,1,1]
+  EndTime: [2,3,4]
+  Profit: [5,6,4]
+  ExpectRes: 6

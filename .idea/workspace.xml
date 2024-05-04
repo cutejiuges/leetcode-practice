@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1e49ea8c-a4ac-4aa1-bee0-b09831847977" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/LC1491/average_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/LC1491/average_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;Go Test.TestAverage in cutejiuge/leetcode-practice/leetcode/LC1491.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestCombinationSum in cutejiuge/leetcode-practice/leetcode/LC39.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2923.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2924.executor&quot;: &quot;Run&quot;,
@@ -75,7 +75,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC2924" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestAverage in cutejiuge/leetcode-practice/leetcode/LC1491">
+  <component name="RunManager" selected="Go Test.TestJobScheduling in cutejiuge/leetcode-practice/leetcode/LC1235">
     <configuration name="TestAverage in cutejiuge/leetcode-practice/leetcode/LC1491" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC1491" />
@@ -88,16 +88,16 @@
       <pattern value="^\QTestAverage\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestMaxSatisfied in cutejiuge/leetcode-practice/leetcode/LC1052" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestJobScheduling in cutejiuge/leetcode-practice/leetcode/LC1235" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC1052" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC1235" />
       <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC1052" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC1235" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestMaxSatisfied\E$" />
+      <pattern value="^\QTestJobScheduling\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestMincostToHireWorkers in cutejiuge/leetcode-practice/leetcode/LC857" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestJobScheduling in cutejiuge/leetcode-practice/leetcode/LC1235" />
         <item itemvalue="Go Test.TestAverage in cutejiuge/leetcode-practice/leetcode/LC1491" />
         <item itemvalue="Go Test.TestMincostToHireWorkers in cutejiuge/leetcode-practice/leetcode/LC857" />
         <item itemvalue="Go Test.TestTotalCost in cutejiuge/leetcode-practice/leetcode/LC2462" />
         <item itemvalue="Go Test.TestNumberOfEmployeesWhoMetTarget in cutejiuge/leetcode-practice/leetcode/LC2798" />
-        <item itemvalue="Go Test.TestMaxSatisfied in cutejiuge/leetcode-practice/leetcode/LC1052" />
       </list>
     </recent_temporary>
   </component>
