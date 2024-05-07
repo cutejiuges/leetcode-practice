@@ -1,0 +1,14 @@
+case1:
+  Plants: [2,2,3,3]
+  Capacity: 5
+  ExpectRes: 14
+
+case2:
+  Plants: [1,1,1,4,2,3]
+  Capacity: 4
+  ExpectRes: 30
+
+case3:
+  Plants: [7,7,7,7,7,7,7]
+  Capacity: 8
+  ExpectRes: 49
