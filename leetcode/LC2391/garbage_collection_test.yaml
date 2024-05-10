@@ -1,0 +1,9 @@
+case1:
+  Garbage: ["G","P","GP","GG"]
+  Travel: [2,4,3]
+  ExpectRes: 21
+
+case2:
+  Garbage: ["MMM","PGM","GP"]
+  Travel: [3,10]
+  ExpectRes: 37

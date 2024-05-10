@@ -1,0 +1,7 @@
+case1:
+  BatteryPercentages: [1,1,2,1,3]
+  ExpectRes: 3
+
+case2:
+  BatteryPercentages: [0,1,2]
+  ExpectRes: 2
