@@ -50,9 +50,11 @@
     "Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2924.executor": "Run",
     "Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2923.executor": "Run",
     "Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2924.executor": "Run",
+    "Go Test.TestGarbageCollection in cutejiuge/leetcode-practice/leetcode/LC2391.executor": "Run",
     "Go Test.TestGetCoprimes in cutejiuge/leetcode-practice/leetcode/LC1766.executor": "Run",
     "Go Test.TestJobScheduling in cutejiuge/leetcode-practice/leetcode/LC1235.executor": "Run",
     "Go Test.TestMaxSatisfied in cutejiuge/leetcode-practice/leetcode/LC1052.executor": "Run",
+    "Go Test.TestMinDays in cutejiuge/leetcode-practice/leetcode/LC1553.executor": "Run",
     "Go Test.TestMinMalwareSpread in cutejiuge/leetcode-practice/leetcode/LC924.executor": "Run",
     "Go Test.TestMinOperations in cutejiuge/leetcode-practice/leetcode/LC2009.executor": "Run",
     "Go Test.TestMincostToHireWorkers in cutejiuge/leetcode-practice/leetcode/LC857.executor": "Run",
@@ -82,19 +84,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC2924" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestGarbageCollection in cutejiuge/leetcode-practice/leetcode/LC2391">
-    <configuration name="TestCherryPickup in cutejiuge/leetcode-practice/leetcode/LC1463" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC1463" />
-      <root_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC1463" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestCherryPickup\E$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Test.TestMinDays in cutejiuge/leetcode-practice/leetcode/LC1553">
     <configuration name="TestCountTestedDevices in cutejiuge/leetcode-practice/leetcode/LC2960" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC2960" />
@@ -117,6 +107,18 @@
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
       <pattern value="^\QTestGarbageCollection\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMinDays in cutejiuge/leetcode-practice/leetcode/LC1553" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC1553" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC1553" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestMinDays\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestMinimumRefill in cutejiuge/leetcode-practice/leetcode/LC2105" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -145,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestMinDays in cutejiuge/leetcode-practice/leetcode/LC1553" />
         <item itemvalue="Go Test.TestGarbageCollection in cutejiuge/leetcode-practice/leetcode/LC2391" />
         <item itemvalue="Go Test.TestMinimumRefill in cutejiuge/leetcode-practice/leetcode/LC2105" />
         <item itemvalue="Go Test.TestCountTestedDevices in cutejiuge/leetcode-practice/leetcode/LC2960" />
         <item itemvalue="Go Test.TestWateringPlants in cutejiuge/leetcode-practice/leetcode/LC2079" />
-        <item itemvalue="Go Test.TestCherryPickup in cutejiuge/leetcode-practice/leetcode/LC1463" />
       </list>
     </recent_temporary>
   </component>
