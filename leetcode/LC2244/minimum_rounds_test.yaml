@@ -1,0 +1,7 @@
+case1:
+  Tasks: [2,2,3,3,2,4,4,4,4,4]
+  ExpectRes: 4
+
+case2:
+  Tasks: [2,3,3]
+  ExpectRes: -1
