@@ -37,55 +37,69 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;Go Test.TestAverage in cutejiuge/leetcode-practice/leetcode/LC1491.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestCherryPickup in cutejiuge/leetcode-practice/leetcode/LC1463.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestCherryPickup in cutejiuge/leetcode-practice/leetcode/LC741.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestCombinationSum in cutejiuge/leetcode-practice/leetcode/LC39.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestCountTestedDevices in cutejiuge/leetcode-practice/leetcode/LC2960.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestDecrypt in cutejiuge/leetcode-practice/leetcode/LC1652.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2923.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2924.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2923.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2924.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestGarbageCollection in cutejiuge/leetcode-practice/leetcode/LC2391.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestGetCoprimes in cutejiuge/leetcode-practice/leetcode/LC1766.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestJobScheduling in cutejiuge/leetcode-practice/leetcode/LC1235.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestMaxSatisfied in cutejiuge/leetcode-practice/leetcode/LC1052.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestMinDays in cutejiuge/leetcode-practice/leetcode/LC1553.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestMinMalwareSpread in cutejiuge/leetcode-practice/leetcode/LC924.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestMinOperations in cutejiuge/leetcode-practice/leetcode/LC2009.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestMincostToHireWorkers in cutejiuge/leetcode-practice/leetcode/LC857.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestMinimumRefill in cutejiuge/leetcode-practice/leetcode/LC2105.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestNumberOfEmployeesWhoMetTarget in cutejiuge/leetcode-practice/leetcode/LC2798.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestOrangesRotting in cutejiuge/leetcode-practice/leetcode/LC994.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestPrint in cutejiuge/leetcode-practice/leetcode/LC1600.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestTotalCost in cutejiuge/leetcode-practice/leetcode/LC2462.executor&quot;: &quot;Run&quot;,
-    &quot;Go Test.TestWateringPlants in cutejiuge/leetcode-practice/leetcode/LC2079.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/wujie/myFiles/GoCode/letcode-practice&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "Go Test.TestAverage in cutejiuge/leetcode-practice/leetcode/LC1491.executor": "Run",
+    "Go Test.TestCherryPickup in cutejiuge/leetcode-practice/leetcode/LC1463.executor": "Run",
+    "Go Test.TestCherryPickup in cutejiuge/leetcode-practice/leetcode/LC741.executor": "Run",
+    "Go Test.TestCombinationSum in cutejiuge/leetcode-practice/leetcode/LC39.executor": "Run",
+    "Go Test.TestCountTestedDevices in cutejiuge/leetcode-practice/leetcode/LC2960.executor": "Run",
+    "Go Test.TestDecrypt in cutejiuge/leetcode-practice/leetcode/LC1652.executor": "Run",
+    "Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC2928.executor": "Run",
+    "Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2923.executor": "Run",
+    "Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2924.executor": "Run",
+    "Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2923.executor": "Run",
+    "Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2924.executor": "Run",
+    "Go Test.TestGarbageCollection in cutejiuge/leetcode-practice/leetcode/LC2391.executor": "Run",
+    "Go Test.TestGetCoprimes in cutejiuge/leetcode-practice/leetcode/LC1766.executor": "Run",
+    "Go Test.TestJobScheduling in cutejiuge/leetcode-practice/leetcode/LC1235.executor": "Run",
+    "Go Test.TestMaxSatisfied in cutejiuge/leetcode-practice/leetcode/LC1052.executor": "Run",
+    "Go Test.TestMinDays in cutejiuge/leetcode-practice/leetcode/LC1553.executor": "Run",
+    "Go Test.TestMinMalwareSpread in cutejiuge/leetcode-practice/leetcode/LC924.executor": "Run",
+    "Go Test.TestMinOperations in cutejiuge/leetcode-practice/leetcode/LC2009.executor": "Run",
+    "Go Test.TestMincostToHireWorkers in cutejiuge/leetcode-practice/leetcode/LC857.executor": "Run",
+    "Go Test.TestMinimumRefill in cutejiuge/leetcode-practice/leetcode/LC2105.executor": "Run",
+    "Go Test.TestMinimumRounds in cutejiuge/leetcode-practice/leetcode/LC2244.executor": "Run",
+    "Go Test.TestNumberOfEmployeesWhoMetTarget in cutejiuge/leetcode-practice/leetcode/LC2798.executor": "Run",
+    "Go Test.TestOrangesRotting in cutejiuge/leetcode-practice/leetcode/LC994.executor": "Run",
+    "Go Test.TestPrint in cutejiuge/leetcode-practice/leetcode/LC1600.executor": "Run",
+    "Go Test.TestTotalCost in cutejiuge/leetcode-practice/leetcode/LC2462.executor": "Run",
+    "Go Test.TestWateringPlants in cutejiuge/leetcode-practice/leetcode/LC2079.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/home/wujie/myFiles/GoCode/letcode-practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "fileTemplates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/leetcode/LC2924" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestMinimumRounds in cutejiuge/leetcode-practice/leetcode/LC2244">
+  <component name="RunManager" selected="Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC2928">
+    <configuration name="TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC2928" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC2928" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC2928" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestDistributeCandies\E$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestGarbageCollection in cutejiuge/leetcode-practice/leetcode/LC2391" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC2391" />
@@ -108,18 +122,6 @@
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
       <pattern value="^\QTestMinDays\E$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestMinimumRefill in cutejiuge/leetcode-practice/leetcode/LC2105" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC2105" />
-      <root_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC2105" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestMinimumRefill\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestMinimumRounds in cutejiuge/leetcode-practice/leetcode/LC2244" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -148,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC2928" />
         <item itemvalue="Go Test.TestMinimumRounds in cutejiuge/leetcode-practice/leetcode/LC2244" />
         <item itemvalue="Go Test.TestOrangesRotting in cutejiuge/leetcode-practice/leetcode/LC994" />
         <item itemvalue="Go Test.TestMinDays in cutejiuge/leetcode-practice/leetcode/LC1553" />
         <item itemvalue="Go Test.TestGarbageCollection in cutejiuge/leetcode-practice/leetcode/LC2391" />
-        <item itemvalue="Go Test.TestMinimumRefill in cutejiuge/leetcode-practice/leetcode/LC2105" />
       </list>
     </recent_temporary>
   </component>

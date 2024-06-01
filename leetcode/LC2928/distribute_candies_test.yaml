@@ -1,0 +1,9 @@
+case1:
+  N: 5
+  Limit: 2
+  ExpectRes: 3
+
+case2:
+  N: 3
+  Limit: 3
+  ExpectRes: 10
