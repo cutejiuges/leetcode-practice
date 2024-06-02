@@ -1,0 +1,11 @@
+case1:
+  CandyType: [1,1,2,2,3,3]
+  ExpectRes: 3
+
+case2:
+  CandyType: [1,1,2,3]
+  ExpectRes: 2
+
+case3:
+  CandyType: [6,6,6,6]
+  ExpectRes: 1
