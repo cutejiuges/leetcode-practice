@@ -47,6 +47,7 @@
     &quot;Go Test.TestCountTestedDevices in cutejiuge/leetcode-practice/leetcode/LC2960.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestDecrypt in cutejiuge/leetcode-practice/leetcode/LC1652.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC2928.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC575.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2923.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2924.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2923.executor&quot;: &quot;Run&quot;,
@@ -87,7 +88,19 @@
       <recent name="$PROJECT_DIR$/leetcode/LC2924" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC575">
+  <component name="RunManager" selected="Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC1103">
+    <configuration name="TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC1103" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC1103" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC1103" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestDistributeCandies\E$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC2928" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC2928" />
@@ -110,18 +123,6 @@
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
       <pattern value="^\QTestDistributeCandies\E$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestMinDays in cutejiuge/leetcode-practice/leetcode/LC1553" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC1553" />
-      <root_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC1553" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestMinDays\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestMinimumRounds in cutejiuge/leetcode-practice/leetcode/LC2244" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -150,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC1103" />
         <item itemvalue="Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC575" />
         <item itemvalue="Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC2928" />
         <item itemvalue="Go Test.TestMinimumRounds in cutejiuge/leetcode-practice/leetcode/LC2244" />
         <item itemvalue="Go Test.TestOrangesRotting in cutejiuge/leetcode-practice/leetcode/LC994" />
-        <item itemvalue="Go Test.TestMinDays in cutejiuge/leetcode-practice/leetcode/LC1553" />
       </list>
     </recent_temporary>
   </component>

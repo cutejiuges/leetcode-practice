@@ -1,0 +1,9 @@
+case1:
+  Candies: 7
+  NumPeople: 4
+  ExpectRes: [1,2,3,1]
+
+case2:
+  Candies: 10
+  NumPeople: 3
+  ExpectRes: [5,2,3]
