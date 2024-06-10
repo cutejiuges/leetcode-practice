@@ -1,0 +1,7 @@
+case1:
+  Board: [[88,46,46,88],[46,46,46,88],[46,46,46,88]]
+  ExpectRes: 2
+
+case2:
+  Board: [[46]]
+  ExpectRes: 0

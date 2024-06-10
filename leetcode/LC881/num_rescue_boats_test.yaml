@@ -1,0 +1,14 @@
+case1:
+  People: [1, 2]
+  Limit: 3
+  ExpectRes: 1
+
+case2:
+  People: [3,2,2,1]
+  Limit: 3
+  ExpectRes: 3
+
+case3:
+  People: [3,5,3,4]
+  Limit: 5
+  ExpectRes: 4
