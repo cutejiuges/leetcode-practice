@@ -1,0 +1,14 @@
+case1:
+  A: aba
+  B: cdc
+  ExpectRes: 3
+
+case2:
+  A: aaa
+  B: bbb
+  ExpectRes: 3
+
+case3:
+  A: aaa
+  B: aaa
+  ExpectRes: -1
