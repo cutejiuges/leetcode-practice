@@ -1,0 +1,11 @@
+case1:
+  Mat: [[3,1],[3,4]]
+  ExpectRes: 2
+
+case2:
+  Mat: [[1,1],[1,1]]
+  ExpectRes: 1
+
+case3:
+  Mat: [[3,1,6],[-9,5,7]]
+  ExpectRes: 4

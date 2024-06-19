@@ -1,0 +1,17 @@
+case1:
+  Nums: [5,1,4,1]
+  IndexDifference: 2
+  ValueDifference: 4
+  ExpectRes: [0,3]
+
+case2:
+  Nums: [2,1]
+  IndexDifference: 0
+  ValueDifference: 0
+  ExpectRes: [0,0]
+
+case3:
+  Nums: [1,2,3]
+  IndexDifference: 2
+  ValueDifference: 4
+  ExpectRes: [-1,-1]
