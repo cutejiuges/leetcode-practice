@@ -21,3 +21,10 @@ func Min[T int | float32 | float64](x, y T) T {
 	}
 	return y
 }
+
+func Gcd(a, b int) int {
+	if b == 0 {
+		return a
+	}
+	return Gcd(b, a%b)
+}
