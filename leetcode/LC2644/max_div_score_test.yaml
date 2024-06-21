@@ -1,0 +1,14 @@
+case1:
+  Nums: [2,9,15,50]
+  Divisors: [5,3,7,2]
+  ExpectRes: 2
+
+case2:
+  Nums: [4,7,9,3,9]
+  Divisors: [5,2,3]
+  ExpectRes: 3
+
+case3:
+  Nums: [20,14,21,10]
+  Divisors: [10,16,20]
+  ExpectRes: 10

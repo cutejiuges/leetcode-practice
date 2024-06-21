@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1e49ea8c-a4ac-4aa1-bee0-b09831847977" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math_util/calculate.go" beforeDir="false" afterPath="$PROJECT_DIR$/math_util/calculate.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     "Go Test.TestCherryPickup in cutejiuge/leetcode-practice/leetcode/LC741.executor": "Run",
     "Go Test.TestCombinationSum in cutejiuge/leetcode-practice/leetcode/LC39.executor": "Run",
     "Go Test.TestCountBattleships in cutejiuge/leetcode-practice/leetcode/LC419.executor": "Run",
-    "Go Test.TestCountBeautifulPairs in cutejiuge/leetcode-practice/leetcode/LC2748.executor": "Debug",
+    "Go Test.TestCountBeautifulPairs in cutejiuge/leetcode-practice/leetcode/LC2748.executor": "Run",
     "Go Test.TestCountTestedDevices in cutejiuge/leetcode-practice/leetcode/LC2960.executor": "Run",
     "Go Test.TestDecrypt in cutejiuge/leetcode-practice/leetcode/LC1652.executor": "Run",
     "Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC1103.executor": "Run",
@@ -74,6 +73,7 @@
     "Go Test.TestOrangesRotting in cutejiuge/leetcode-practice/leetcode/LC994.executor": "Run",
     "Go Test.TestPrint in cutejiuge/leetcode-practice/leetcode/LC1600.executor": "Run",
     "Go Test.TestPrintYaml in cutejiuge/leetcode-practice/leetcode/LC419.executor": "Run",
+    "Go Test.TestSmallestBeautifulString in cutejiuge/leetcode-practice/leetcode/LC2663.executor": "Run",
     "Go Test.TestTotalCost in cutejiuge/leetcode-practice/leetcode/LC2462.executor": "Run",
     "Go Test.TestWateringPlants in cutejiuge/leetcode-practice/leetcode/LC2079.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -97,19 +97,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC2924" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestCountBeautifulPairs in cutejiuge/leetcode-practice/leetcode/LC2748">
-    <configuration name="TestCountBattleships in cutejiuge/leetcode-practice/leetcode/LC419" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC419" />
-      <root_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC419" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestCountBattleships\E$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Test.TestMaxDivScore in cutejiuge/leetcode-practice/leetcode/LC2644">
     <configuration name="TestCountBeautifulPairs in cutejiuge/leetcode-practice/leetcode/LC2748" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC2748" />
@@ -134,16 +122,16 @@
       <pattern value="^\QTestFindIndices\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestFindLUSlength in cutejiuge/leetcode-practice/leetcode/LC521" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMaxDivScore in cutejiuge/leetcode-practice/leetcode/LC2644" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC521" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC2644" />
       <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC521" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC2644" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestFindLUSlength\E$" />
+      <pattern value="^\QTestMaxDivScore\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestMaxIncreasingCells in cutejiuge/leetcode-practice/leetcode/LC2713" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -158,13 +146,25 @@
       <pattern value="^\QTestMaxIncreasingCells\E$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestSmallestBeautifulString in cutejiuge/leetcode-practice/leetcode/LC2663" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC2663" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC2663" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestSmallestBeautifulString\E$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestMaxDivScore in cutejiuge/leetcode-practice/leetcode/LC2644" />
+        <item itemvalue="Go Test.TestSmallestBeautifulString in cutejiuge/leetcode-practice/leetcode/LC2663" />
         <item itemvalue="Go Test.TestCountBeautifulPairs in cutejiuge/leetcode-practice/leetcode/LC2748" />
         <item itemvalue="Go Test.TestFindIndices in cutejiuge/leetcode-practice/leetcode/LC2903" />
         <item itemvalue="Go Test.TestMaxIncreasingCells in cutejiuge/leetcode-practice/leetcode/LC2713" />
-        <item itemvalue="Go Test.TestFindLUSlength in cutejiuge/leetcode-practice/leetcode/LC521" />
-        <item itemvalue="Go Test.TestCountBattleships in cutejiuge/leetcode-practice/leetcode/LC419" />
       </list>
     </recent_temporary>
   </component>
@@ -192,16 +192,5 @@
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/math_util/calculate.go</url>
-          <line>25</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

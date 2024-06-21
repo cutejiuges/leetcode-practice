@@ -1,0 +1,9 @@
+case1:
+  S: "abcz"
+  K: 26
+  ExpectRes: "abda"
+
+case2:
+  S: "dc"
+  K: 4
+  ExpectRes: ""
