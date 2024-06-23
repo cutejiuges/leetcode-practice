@@ -1,0 +1,14 @@
+case1:
+  Nums: ["777","7","77","77"]
+  Target: "7777"
+  ExpectRes: 4
+
+case2:
+  Nums: ["123","4","12","34"]
+  Target: "1234"
+  ExpectRes: 2
+
+case3:
+  Nums: ["1","1","1"]
+  Target: "11"
+  ExpectRes: 6

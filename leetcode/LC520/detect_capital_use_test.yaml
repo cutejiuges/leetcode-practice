@@ -1,0 +1,7 @@
+case1:
+  Word: "USA"
+  ExpectRes: true
+
+case2:
+  Word: "FlaG"
+  ExpectRes: false
