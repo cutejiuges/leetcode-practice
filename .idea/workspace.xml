@@ -70,6 +70,8 @@
     "Go Test.TestMincostToHireWorkers in cutejiuge/leetcode-practice/leetcode/LC857.executor": "Run",
     "Go Test.TestMinimumRefill in cutejiuge/leetcode-practice/leetcode/LC2105.executor": "Run",
     "Go Test.TestMinimumRounds in cutejiuge/leetcode-practice/leetcode/LC2244.executor": "Run",
+    "Go Test.TestNextGreaterElements in cutejiuge/leetcode-practice/leetcode/LC503.executor": "Run",
+    "Go Test.TestNumOfPairs in cutejiuge/leetcode-practice/leetcode/LC2023.executor": "Run",
     "Go Test.TestNumRescueBoats in cutejiuge/leetcode-practice/leetcode/LC881.executor": "Run",
     "Go Test.TestNumberOfEmployeesWhoMetTarget in cutejiuge/leetcode-practice/leetcode/LC2798.executor": "Run",
     "Go Test.TestOrangesRotting in cutejiuge/leetcode-practice/leetcode/LC994.executor": "Run",
@@ -99,19 +101,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC2924" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestNumOfPairs in cutejiuge/leetcode-practice/leetcode/LC2023">
-    <configuration name="TestCountBeautifulPairs in cutejiuge/leetcode-practice/leetcode/LC2748" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC2748" />
-      <root_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC2748" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestCountBeautifulPairs\E$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Test.TestNextGreaterElements in cutejiuge/leetcode-practice/leetcode/LC503">
     <configuration name="TestDetectCapitalUse in cutejiuge/leetcode-practice/leetcode/LC520" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC520" />
@@ -134,6 +124,18 @@
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
       <pattern value="^\QTestMaxDivScore\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNextGreaterElements in cutejiuge/leetcode-practice/leetcode/LC503" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC503" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC503" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestNextGreaterElements\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestNumOfPairs in cutejiuge/leetcode-practice/leetcode/LC2023" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -162,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestNextGreaterElements in cutejiuge/leetcode-practice/leetcode/LC503" />
         <item itemvalue="Go Test.TestNumOfPairs in cutejiuge/leetcode-practice/leetcode/LC2023" />
         <item itemvalue="Go Test.TestDetectCapitalUse in cutejiuge/leetcode-practice/leetcode/LC520" />
         <item itemvalue="Go Test.TestMaxDivScore in cutejiuge/leetcode-practice/leetcode/LC2644" />
         <item itemvalue="Go Test.TestSmallestBeautifulString in cutejiuge/leetcode-practice/leetcode/LC2663" />
-        <item itemvalue="Go Test.TestCountBeautifulPairs in cutejiuge/leetcode-practice/leetcode/LC2748" />
       </list>
     </recent_temporary>
   </component>

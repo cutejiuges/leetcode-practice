@@ -1,0 +1,11 @@
+case1:
+  Nums: [1, 2, 1]
+  ExpectRes: [2, -1, 2]
+
+case2:
+  Nums: [1,2,3,4,3]
+  ExpectRes: [2,3,4,-1,4]
+
+case3:
+  Nums: [ 1, 2, 1 ]
+  ExpectRes: [ 2, -1, 2 ]
