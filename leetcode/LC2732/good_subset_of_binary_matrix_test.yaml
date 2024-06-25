@@ -1,0 +1,11 @@
+case1:
+  Grid: [[0,1,1,0],[0,0,0,1],[1,1,1,1]]
+  ExpectRes: [0,1]
+
+case2:
+  Grid: [[0]]
+  ExpectRes: [0]
+
+case3:
+  Grid: [[1,1,1],[1,1,1]]
+  ExpectRes: []

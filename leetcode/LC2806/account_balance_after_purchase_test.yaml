@@ -1,0 +1,11 @@
+case1:
+  PurchaseAmount: 9
+  ExpectRes: 90
+
+case2:
+  PurchaseAmount: 15
+  ExpectRes: 80
+
+case3:
+  PurchaseAmount: 1
+  ExpectRes: 100
