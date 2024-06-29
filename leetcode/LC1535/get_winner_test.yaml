@@ -1,0 +1,19 @@
+case1:
+  Arr: [2,1,3,5,4,6,7]
+  K: 2
+  ExpectRes: 5
+
+case2:
+  Arr: [3,2,1]
+  K: 10
+  ExpectRes: 3
+
+case3:
+  Arr: [1,9,8,2,3,7,6,4,5]
+  K: 7
+  ExpectRes: 9
+
+case4:
+  Arr: [1,11,22,33,44,55,66,77,88,99]
+  K: 1000000000
+  ExpectRes: 99

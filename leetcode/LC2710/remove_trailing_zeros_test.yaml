@@ -1,0 +1,11 @@
+case1:
+  Num: "51230100"
+  ExpectRes: "512301"
+
+case2:
+  Num: "123"
+  ExpectRes: "123"
+
+case3:
+  Num: "000"
+  ExpectRes: ""

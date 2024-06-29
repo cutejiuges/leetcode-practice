@@ -40,7 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultGoTemplateProperty": "Go File",
-    "Go Test.TestAccountBalanceAfterPurchase in cutejiuge/leetcode-practice/leetcode/LC2806.executor": "Debug",
+    "Go Test.TestAccountBalanceAfterPurchase in cutejiuge/leetcode-practice/leetcode/LC2806.executor": "Run",
     "Go Test.TestAverage in cutejiuge/leetcode-practice/leetcode/LC1491.executor": "Run",
     "Go Test.TestCherryPickup in cutejiuge/leetcode-practice/leetcode/LC1463.executor": "Run",
     "Go Test.TestCherryPickup in cutejiuge/leetcode-practice/leetcode/LC741.executor": "Run",
@@ -61,6 +61,7 @@
     "Go Test.TestFindLUSlength in cutejiuge/leetcode-practice/leetcode/LC521.executor": "Run",
     "Go Test.TestGarbageCollection in cutejiuge/leetcode-practice/leetcode/LC2391.executor": "Run",
     "Go Test.TestGetCoprimes in cutejiuge/leetcode-practice/leetcode/LC1766.executor": "Run",
+    "Go Test.TestGetWinner in cutejiuge/leetcode-practice/leetcode/LC1535.executor": "Run",
     "Go Test.TestGoodSubsetofBinaryMatrix in cutejiuge/leetcode-practice/leetcode/LC2732.executor": "Run",
     "Go Test.TestJobScheduling in cutejiuge/leetcode-practice/leetcode/LC1235.executor": "Run",
     "Go Test.TestMaxDivScore in cutejiuge/leetcode-practice/leetcode/LC2644.executor": "Run",
@@ -79,6 +80,7 @@
     "Go Test.TestOrangesRotting in cutejiuge/leetcode-practice/leetcode/LC994.executor": "Run",
     "Go Test.TestPrint in cutejiuge/leetcode-practice/leetcode/LC1600.executor": "Run",
     "Go Test.TestPrintYaml in cutejiuge/leetcode-practice/leetcode/LC419.executor": "Run",
+    "Go Test.TestRemoveTrailingZeros in cutejiuge/leetcode-practice/leetcode/LC2710.executor": "Run",
     "Go Test.TestSmallestBeautifulString in cutejiuge/leetcode-practice/leetcode/LC2663.executor": "Run",
     "Go Test.TestTotalCost in cutejiuge/leetcode-practice/leetcode/LC2462.executor": "Run",
     "Go Test.TestWateringPlants in cutejiuge/leetcode-practice/leetcode/LC2079.executor": "Run",
@@ -103,7 +105,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC2924" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestAccountBalanceAfterPurchase in cutejiuge/leetcode-practice/leetcode/LC2806">
+  <component name="RunManager" selected="Go Test.TestGetWinner in cutejiuge/leetcode-practice/leetcode/LC1535">
     <configuration name="TestAccountBalanceAfterPurchase in cutejiuge/leetcode-practice/leetcode/LC2806" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC2806" />
@@ -116,16 +118,16 @@
       <pattern value="^\QTestAccountBalanceAfterPurchase\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestDetectCapitalUse in cutejiuge/leetcode-practice/leetcode/LC520" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestGetWinner in cutejiuge/leetcode-practice/leetcode/LC1535" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC520" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC1535" />
       <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC520" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC1535" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestDetectCapitalUse\E$" />
+      <pattern value="^\QTestGetWinner\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestGoodSubsetofBinaryMatrix in cutejiuge/leetcode-practice/leetcode/LC2732" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -152,25 +154,25 @@
       <pattern value="^\QTestNextGreaterElements\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestNumOfPairs in cutejiuge/leetcode-practice/leetcode/LC2023" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestRemoveTrailingZeros in cutejiuge/leetcode-practice/leetcode/LC2710" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC2023" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC2710" />
       <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC2023" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC2710" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestNumOfPairs\E$" />
+      <pattern value="^\QTestRemoveTrailingZeros\E$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestGetWinner in cutejiuge/leetcode-practice/leetcode/LC1535" />
+        <item itemvalue="Go Test.TestRemoveTrailingZeros in cutejiuge/leetcode-practice/leetcode/LC2710" />
         <item itemvalue="Go Test.TestAccountBalanceAfterPurchase in cutejiuge/leetcode-practice/leetcode/LC2806" />
         <item itemvalue="Go Test.TestGoodSubsetofBinaryMatrix in cutejiuge/leetcode-practice/leetcode/LC2732" />
         <item itemvalue="Go Test.TestNextGreaterElements in cutejiuge/leetcode-practice/leetcode/LC503" />
-        <item itemvalue="Go Test.TestNumOfPairs in cutejiuge/leetcode-practice/leetcode/LC2023" />
-        <item itemvalue="Go Test.TestDetectCapitalUse in cutejiuge/leetcode-practice/leetcode/LC520" />
       </list>
     </recent_temporary>
   </component>
