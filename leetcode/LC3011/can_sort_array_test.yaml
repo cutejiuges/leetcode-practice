@@ -1,0 +1,11 @@
+case1:
+  Nums: [8,4,2,30,15]
+  ExpectRes: true
+
+case2:
+  Nums: [1,2,3,4,5]
+  ExpectRes: true
+
+case3:
+  Nums: [3,16,8,4,2]
+  ExpectRes: false

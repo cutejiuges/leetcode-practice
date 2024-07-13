@@ -1,0 +1,9 @@
+case1:
+  Root: ['6','2','13','1','4','9','15','null','null','null','null','null','null','14']
+  Queries: [2,5,16]
+  ExpectRes: [[2,2],[4,6],[15,-1]]
+
+case2:
+  Root: ['4','null','9']
+  Queries: [3]
+  ExpectRes: [[-1,4]]
