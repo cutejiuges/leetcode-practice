@@ -42,6 +42,7 @@
     &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
     &quot;Go Test.TestAccountBalanceAfterPurchase in cutejiuge/leetcode-practice/leetcode/LC2806.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestAverage in cutejiuge/leetcode-practice/leetcode/LC1491.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestCanSortArray in cutejiuge/leetcode-practice/leetcode/LC3011.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestCherryPickup in cutejiuge/leetcode-practice/leetcode/LC1463.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestCherryPickup in cutejiuge/leetcode-practice/leetcode/LC741.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestClosestNodes in cutejiuge/leetcode-practice/leetcode/LC2476.executor&quot;: &quot;Run&quot;,
@@ -95,7 +96,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
     &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/wujie/myFiles/GoCode/leetcode-practice&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/wujie/myFiles/GoCode/easy_parctice/micro_demo&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
@@ -107,7 +108,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC2924" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestCanSortArray in cutejiuge/leetcode-practice/leetcode/LC3011">
+  <component name="RunManager" selected="Go Test.TestMaxIncreaseKeepingSkyline in cutejiuge/leetcode-practice/leetcode/LC807">
     <configuration name="TestCanSortArray in cutejiuge/leetcode-practice/leetcode/LC3011" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC3011" />
@@ -144,6 +145,18 @@
       <pattern value="^\QTestGetWinner\E$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestMaxIncreaseKeepingSkyline in cutejiuge/leetcode-practice/leetcode/LC807" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC807" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC807" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestMaxIncreaseKeepingSkyline\E$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestMinimumDistance in cutejiuge/leetcode-practice/leetcode/LC3102" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC3102" />
@@ -156,25 +169,13 @@
       <pattern value="^\QTestMinimumDistance\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestRemoveTrailingZeros in cutejiuge/leetcode-practice/leetcode/LC2710" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC2710" />
-      <root_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC2710" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestRemoveTrailingZeros\E$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestMaxIncreaseKeepingSkyline in cutejiuge/leetcode-practice/leetcode/LC807" />
         <item itemvalue="Go Test.TestCanSortArray in cutejiuge/leetcode-practice/leetcode/LC3011" />
         <item itemvalue="Go Test.TestClosestNodes in cutejiuge/leetcode-practice/leetcode/LC2476" />
         <item itemvalue="Go Test.TestMinimumDistance in cutejiuge/leetcode-practice/leetcode/LC3102" />
         <item itemvalue="Go Test.TestGetWinner in cutejiuge/leetcode-practice/leetcode/LC1535" />
-        <item itemvalue="Go Test.TestRemoveTrailingZeros in cutejiuge/leetcode-practice/leetcode/LC2710" />
       </list>
     </recent_temporary>
   </component>
