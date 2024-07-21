@@ -1,0 +1,11 @@
+case1:
+  Arr: [1,-2,0,3]
+  ExpectRes: 4
+
+case2:
+  Arr: [1,-2,-2,3]
+  ExpectRes: 3
+
+case3:
+  Arr: [-1,-1,-1,-1]
+  ExpectRes: -1
