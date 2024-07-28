@@ -70,6 +70,7 @@
     &quot;Go Test.TestMaxIncreaseKeepingSkyline in cutejiuge/leetcode-practice/leetcode/LC807.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestMaxIncreasingCells in cutejiuge/leetcode-practice/leetcode/LC2713.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestMaxSatisfied in cutejiuge/leetcode-practice/leetcode/LC1052.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMaximumDetonation in cutejiuge/leetcode-practice/leetcode/LC2101.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestMaximumSum in cutejiuge/leetcode-practice/leetcode/LC1186.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestMinDays in cutejiuge/leetcode-practice/leetcode/LC1553.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestMinMalwareSpread in cutejiuge/leetcode-practice/leetcode/LC924.executor&quot;: &quot;Run&quot;,
@@ -110,7 +111,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC2924" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestMaximumSum in cutejiuge/leetcode-practice/leetcode/LC1186">
+  <component name="RunManager" selected="Go Test.TestFallingSquares in cutejiuge/leetcode-practice/leetcode/LC699">
     <configuration name="TestCanSortArray in cutejiuge/leetcode-practice/leetcode/LC3011" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC3011" />
@@ -123,16 +124,16 @@
       <pattern value="^\QTestCanSortArray\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestClosestNodes in cutejiuge/leetcode-practice/leetcode/LC2476" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFallingSquares in cutejiuge/leetcode-practice/leetcode/LC699" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC2476" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC699" />
       <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC2476" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC699" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestClosestNodes\E$" />
+      <pattern value="^\QTestFallingSquares\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestMaxIncreaseKeepingSkyline in cutejiuge/leetcode-practice/leetcode/LC807" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -147,6 +148,18 @@
       <pattern value="^\QTestMaxIncreaseKeepingSkyline\E$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestMaximumDetonation in cutejiuge/leetcode-practice/leetcode/LC2101" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC2101" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC2101" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestMaximumDetonation\E$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestMaximumSum in cutejiuge/leetcode-practice/leetcode/LC1186" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC1186" />
@@ -159,25 +172,13 @@
       <pattern value="^\QTestMaximumSum\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestMinimumDistance in cutejiuge/leetcode-practice/leetcode/LC3102" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC3102" />
-      <root_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC3102" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestMinimumDistance\E$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestFallingSquares in cutejiuge/leetcode-practice/leetcode/LC699" />
+        <item itemvalue="Go Test.TestMaximumDetonation in cutejiuge/leetcode-practice/leetcode/LC2101" />
         <item itemvalue="Go Test.TestMaximumSum in cutejiuge/leetcode-practice/leetcode/LC1186" />
         <item itemvalue="Go Test.TestMaxIncreaseKeepingSkyline in cutejiuge/leetcode-practice/leetcode/LC807" />
         <item itemvalue="Go Test.TestCanSortArray in cutejiuge/leetcode-practice/leetcode/LC3011" />
-        <item itemvalue="Go Test.TestClosestNodes in cutejiuge/leetcode-practice/leetcode/LC2476" />
-        <item itemvalue="Go Test.TestMinimumDistance in cutejiuge/leetcode-practice/leetcode/LC3102" />
       </list>
     </recent_temporary>
   </component>

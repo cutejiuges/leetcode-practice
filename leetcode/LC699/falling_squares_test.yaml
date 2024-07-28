@@ -1,0 +1,8 @@
+case1:
+  Positions: [[1,2],[2,3],[6,1]]
+  ExpectRes: [2,5,5]
+
+
+case2:
+  Positions: [[100,100],[200,100]]
+  ExpectRes: [100, 100]
