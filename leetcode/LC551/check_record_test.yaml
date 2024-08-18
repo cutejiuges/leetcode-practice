@@ -1,0 +1,7 @@
+case1:
+  S: "PPALLP"
+  ExpectRes: true
+
+case2:
+  S: "PPALLL"
+  ExpectRes: false
