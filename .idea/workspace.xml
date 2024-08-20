@@ -43,6 +43,7 @@
     &quot;Go Test.TestAccountBalanceAfterPurchase in cutejiuge/leetcode-practice/leetcode/LC2806.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestAverage in cutejiuge/leetcode-practice/leetcode/LC1491.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestCanSortArray in cutejiuge/leetcode-practice/leetcode/LC3011.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestCheckRecord in cutejiuge/leetcode-practice/leetcode/LC551.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestCherryPickup in cutejiuge/leetcode-practice/leetcode/LC1463.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestCherryPickup in cutejiuge/leetcode-practice/leetcode/LC741.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestClosestNodes in cutejiuge/leetcode-practice/leetcode/LC2476.executor&quot;: &quot;Run&quot;,
@@ -114,7 +115,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC2924" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestCheckRecord in cutejiuge/leetcode-practice/leetcode/LC551">
+  <component name="RunManager" selected="Go Test.TestWaysToReachStair in cutejiuge/leetcode-practice/leetcode/LC3154">
     <configuration name="TestCheckRecord in cutejiuge/leetcode-practice/leetcode/LC551" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC551" />
@@ -163,25 +164,25 @@
       <pattern value="^\QTestMaxUncrossedLines\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestMaximumDetonation in cutejiuge/leetcode-practice/leetcode/LC2101" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestWaysToReachStair in cutejiuge/leetcode-practice/leetcode/LC3154" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC2101" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC3154" />
       <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC2101" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC3154" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestMaximumDetonation\E$" />
+      <pattern value="^\QTestWaysToReachStair\E$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestWaysToReachStair in cutejiuge/leetcode-practice/leetcode/LC3154" />
         <item itemvalue="Go Test.TestCheckRecord in cutejiuge/leetcode-practice/leetcode/LC551" />
         <item itemvalue="Go Test.TestMaxUncrossedLines in cutejiuge/leetcode-practice/leetcode/LC1035" />
         <item itemvalue="Go Test.TestMaxPointsInsideSquare in cutejiuge/leetcode-practice/leetcode/LC3143" />
         <item itemvalue="Go Test.TestFallingSquares in cutejiuge/leetcode-practice/leetcode/LC699" />
-        <item itemvalue="Go Test.TestMaximumDetonation in cutejiuge/leetcode-practice/leetcode/LC2101" />
       </list>
     </recent_temporary>
   </component>
