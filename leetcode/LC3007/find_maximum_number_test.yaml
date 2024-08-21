@@ -1,0 +1,9 @@
+case1:
+  K: 9
+  X: 1
+  ExpectRes: 6
+
+case2:
+  K: 7
+  X: 2
+  ExpectRes: 9

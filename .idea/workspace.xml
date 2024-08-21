@@ -94,6 +94,7 @@
     &quot;Go Test.TestSmallestBeautifulString in cutejiuge/leetcode-practice/leetcode/LC2663.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestTotalCost in cutejiuge/leetcode-practice/leetcode/LC2462.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestWateringPlants in cutejiuge/leetcode-practice/leetcode/LC2079.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestWaysToReachStair in cutejiuge/leetcode-practice/leetcode/LC3154.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
@@ -115,7 +116,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC2924" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestWaysToReachStair in cutejiuge/leetcode-practice/leetcode/LC3154">
+  <component name="RunManager" selected="Go Test.TestFindMaximumNumber in cutejiuge/leetcode-practice/leetcode/LC3007">
     <configuration name="TestCheckRecord in cutejiuge/leetcode-practice/leetcode/LC551" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC551" />
@@ -128,16 +129,16 @@
       <pattern value="^\QTestCheckRecord\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestFallingSquares in cutejiuge/leetcode-practice/leetcode/LC699" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFindMaximumNumber in cutejiuge/leetcode-practice/leetcode/LC3007" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC699" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC3007" />
       <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC699" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC3007" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestFallingSquares\E$" />
+      <pattern value="^\QTestFindMaximumNumber\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestMaxPointsInsideSquare in cutejiuge/leetcode-practice/leetcode/LC3143" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -178,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestFindMaximumNumber in cutejiuge/leetcode-practice/leetcode/LC3007" />
         <item itemvalue="Go Test.TestWaysToReachStair in cutejiuge/leetcode-practice/leetcode/LC3154" />
         <item itemvalue="Go Test.TestCheckRecord in cutejiuge/leetcode-practice/leetcode/LC551" />
         <item itemvalue="Go Test.TestMaxUncrossedLines in cutejiuge/leetcode-practice/leetcode/LC1035" />
         <item itemvalue="Go Test.TestMaxPointsInsideSquare in cutejiuge/leetcode-practice/leetcode/LC3143" />
-        <item itemvalue="Go Test.TestFallingSquares in cutejiuge/leetcode-practice/leetcode/LC699" />
       </list>
     </recent_temporary>
   </component>
