@@ -63,6 +63,7 @@
     &quot;Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2924.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestFindIndices in cutejiuge/leetcode-practice/leetcode/LC2903.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestFindLUSlength in cutejiuge/leetcode-practice/leetcode/LC521.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestFindMaximumNumber in cutejiuge/leetcode-practice/leetcode/LC3007.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestGarbageCollection in cutejiuge/leetcode-practice/leetcode/LC2391.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestGetCoprimes in cutejiuge/leetcode-practice/leetcode/LC1766.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestGetWinner in cutejiuge/leetcode-practice/leetcode/LC1535.executor&quot;: &quot;Run&quot;,
@@ -116,7 +117,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC2924" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestFindMaximumNumber in cutejiuge/leetcode-practice/leetcode/LC3007">
+  <component name="RunManager" selected="Go Test.TestMinEnd in cutejiuge/leetcode-practice/leetcode/LC3133">
     <configuration name="TestCheckRecord in cutejiuge/leetcode-practice/leetcode/LC551" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC551" />
@@ -141,18 +142,6 @@
       <pattern value="^\QTestFindMaximumNumber\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestMaxPointsInsideSquare in cutejiuge/leetcode-practice/leetcode/LC3143" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC3143" />
-      <root_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC3143" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestMaxPointsInsideSquare\E$" />
-      <method v="2" />
-    </configuration>
     <configuration name="TestMaxUncrossedLines in cutejiuge/leetcode-practice/leetcode/LC1035" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC1035" />
@@ -163,6 +152,18 @@
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
       <pattern value="^\QTestMaxUncrossedLines\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMinEnd in cutejiuge/leetcode-practice/leetcode/LC3133" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC3133" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC3133" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestMinEnd\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestWaysToReachStair in cutejiuge/leetcode-practice/leetcode/LC3154" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -179,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestMinEnd in cutejiuge/leetcode-practice/leetcode/LC3133" />
         <item itemvalue="Go Test.TestFindMaximumNumber in cutejiuge/leetcode-practice/leetcode/LC3007" />
         <item itemvalue="Go Test.TestWaysToReachStair in cutejiuge/leetcode-practice/leetcode/LC3154" />
         <item itemvalue="Go Test.TestCheckRecord in cutejiuge/leetcode-practice/leetcode/LC551" />
         <item itemvalue="Go Test.TestMaxUncrossedLines in cutejiuge/leetcode-practice/leetcode/LC1035" />
-        <item itemvalue="Go Test.TestMaxPointsInsideSquare in cutejiuge/leetcode-practice/leetcode/LC3143" />
       </list>
     </recent_temporary>
   </component>
