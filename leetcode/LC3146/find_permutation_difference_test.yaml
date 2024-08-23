@@ -1,0 +1,9 @@
+case1:
+  S: "abc"
+  T: "bac"
+  ExpectRes: 2
+
+case2:
+  S: "abcde"
+  T: "edbac"
+  ExpectRes: 12
