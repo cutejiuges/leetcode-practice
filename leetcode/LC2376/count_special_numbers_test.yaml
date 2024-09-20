@@ -1,0 +1,11 @@
+case1:
+  N: 20
+  ExpectRes: 19
+
+case2:
+  N: 5
+  ExpectRes: 5
+
+case3:
+  N: 135
+  ExpectRes: 110
