@@ -78,12 +78,14 @@
     "Go Test.TestMaxIncreasingCells in cutejiuge/leetcode-practice/leetcode/LC2713.executor": "Run",
     "Go Test.TestMaxPointsInsideSquare in cutejiuge/leetcode-practice/leetcode/LC3143.executor": "Run",
     "Go Test.TestMaxSatisfied in cutejiuge/leetcode-practice/leetcode/LC1052.executor": "Run",
+    "Go Test.TestMaxScoreSightseeingPair in cutejiuge/leetcode-practice/leetcode/LC1014.executor": "Run",
     "Go Test.TestMaxUncrossedLines in cutejiuge/leetcode-practice/leetcode/LC1035.executor": "Run",
     "Go Test.TestMaximumDetonation in cutejiuge/leetcode-practice/leetcode/LC2101.executor": "Run",
     "Go Test.TestMaximumSum in cutejiuge/leetcode-practice/leetcode/LC1186.executor": "Run",
     "Go Test.TestMinDays in cutejiuge/leetcode-practice/leetcode/LC1553.executor": "Run",
     "Go Test.TestMinEnd in cutejiuge/leetcode-practice/leetcode/LC3133.executor": "Run",
     "Go Test.TestMinMalwareSpread in cutejiuge/leetcode-practice/leetcode/LC924.executor": "Run",
+    "Go Test.TestMinNumberOfSeconds in cutejiuge/leetcode-practice/leetcode/race416_q2.executor": "Run",
     "Go Test.TestMinOperations in cutejiuge/leetcode-practice/leetcode/LC2009.executor": "Run",
     "Go Test.TestMincostToHireWorkers in cutejiuge/leetcode-practice/leetcode/LC857.executor": "Run",
     "Go Test.TestMinimumDistance in cutejiuge/leetcode-practice/leetcode/LC3102.executor": "Run",
@@ -122,7 +124,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC2924" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestFindJudge in cutejiuge/leetcode-practice/leetcode/LC997">
+  <component name="RunManager" selected="Go Test.TestMaxScoreSightseeingPair in cutejiuge/leetcode-practice/leetcode/LC1014">
     <configuration name="TestBusyStudent in cutejiuge/leetcode-practice/leetcode/LC1450" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC1450" />
@@ -159,37 +161,37 @@
       <pattern value="^\QTestFindJudge\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestFindPermutationDifference in cutejiuge/leetcode-practice/leetcode/LC3146" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMaxScoreSightseeingPair in cutejiuge/leetcode-practice/leetcode/LC1014" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC3146" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC1014" />
       <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC3146" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC1014" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestFindPermutationDifference\E$" />
+      <pattern value="^\QTestMaxScoreSightseeingPair\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestMinEnd in cutejiuge/leetcode-practice/leetcode/LC3133" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMinNumberOfSeconds in cutejiuge/leetcode-practice/leetcode/race416_q2" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC3133" />
+      <working_directory value="$PROJECT_DIR$/leetcode/race416_q2" />
       <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC3133" />
+      <package value="cutejiuge/leetcode-practice/leetcode/race416_q2" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestMinEnd\E$" />
+      <pattern value="^\QTestMinNumberOfSeconds\E$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestMaxScoreSightseeingPair in cutejiuge/leetcode-practice/leetcode/LC1014" />
+        <item itemvalue="Go Test.TestMinNumberOfSeconds in cutejiuge/leetcode-practice/leetcode/race416_q2" />
         <item itemvalue="Go Test.TestFindJudge in cutejiuge/leetcode-practice/leetcode/LC997" />
         <item itemvalue="Go Test.TestCountSpecialNumbers in cutejiuge/leetcode-practice/leetcode/LC2376" />
         <item itemvalue="Go Test.TestBusyStudent in cutejiuge/leetcode-practice/leetcode/LC1450" />
-        <item itemvalue="Go Test.TestFindPermutationDifference in cutejiuge/leetcode-practice/leetcode/LC3146" />
-        <item itemvalue="Go Test.TestMinEnd in cutejiuge/leetcode-practice/leetcode/LC3133" />
       </list>
     </recent_temporary>
   </component>

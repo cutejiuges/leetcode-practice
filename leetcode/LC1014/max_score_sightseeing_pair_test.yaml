@@ -1,0 +1,7 @@
+case1:
+  Values: [8,1,5,2,6]
+  ExpectRes: 11
+
+case2:
+  Values: [1,2]
+  ExpectRes: 2
