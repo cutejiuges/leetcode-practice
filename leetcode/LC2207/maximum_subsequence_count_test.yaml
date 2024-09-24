@@ -1,0 +1,9 @@
+case1:
+  Text: "abdcdbc"
+  Pattern: "ac"
+  ExpectRes: 4
+
+case2:
+  Text: "aabb"
+  Pattern: "ab"
+  ExpectRes: 6
