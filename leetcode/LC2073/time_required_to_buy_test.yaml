@@ -1,0 +1,9 @@
+case1:
+  Tickets: [2, 3, 2]
+  K: 2
+  ExpectRes: 6
+
+case2:
+  Tickets:  [5,1,1,1]
+  K: 0
+  ExpectRes: 8
