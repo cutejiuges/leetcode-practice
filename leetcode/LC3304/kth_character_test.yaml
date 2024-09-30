@@ -1,0 +1,7 @@
+case1:
+  K: 5
+  ExpectRes: 'b'
+
+case2:
+  K: 10
+  ExpectRes: 'c'

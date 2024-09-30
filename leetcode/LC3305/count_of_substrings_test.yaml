@@ -1,0 +1,14 @@
+case1:
+  Word: "aeioqq"
+  K: 1
+  ExpectRes: 0
+
+case2:
+  Word: "aeiou"
+  K: 0
+  ExpectRes: 1
+
+case3:
+  Word: "ieaouqqieaouqq"
+  K: 1
+  ExpectRes: 3

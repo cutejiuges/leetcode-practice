@@ -51,6 +51,7 @@
     "Go Test.TestCombinationSum in cutejiuge/leetcode-practice/leetcode/LC39.executor": "Run",
     "Go Test.TestCountBattleships in cutejiuge/leetcode-practice/leetcode/LC419.executor": "Run",
     "Go Test.TestCountBeautifulPairs in cutejiuge/leetcode-practice/leetcode/LC2748.executor": "Run",
+    "Go Test.TestCountOfSubstrings in cutejiuge/leetcode-practice/leetcode/LC3305.executor": "Run",
     "Go Test.TestCountSpecialNumbers in cutejiuge/leetcode-practice/leetcode/LC2376.executor": "Run",
     "Go Test.TestCountTestedDevices in cutejiuge/leetcode-practice/leetcode/LC2960.executor": "Run",
     "Go Test.TestDecrypt in cutejiuge/leetcode-practice/leetcode/LC1652.executor": "Run",
@@ -74,6 +75,7 @@
     "Go Test.TestGetWinner in cutejiuge/leetcode-practice/leetcode/LC1535.executor": "Run",
     "Go Test.TestGoodSubsetofBinaryMatrix in cutejiuge/leetcode-practice/leetcode/LC2732.executor": "Run",
     "Go Test.TestJobScheduling in cutejiuge/leetcode-practice/leetcode/LC1235.executor": "Run",
+    "Go Test.TestKthCharacter in cutejiuge/leetcode-practice/leetcode/LC3304.executor": "Run",
     "Go Test.TestMaxDivScore in cutejiuge/leetcode-practice/leetcode/LC2644.executor": "Run",
     "Go Test.TestMaxIncreaseKeepingSkyline in cutejiuge/leetcode-practice/leetcode/LC807.executor": "Run",
     "Go Test.TestMaxIncreasingCells in cutejiuge/leetcode-practice/leetcode/LC2713.executor": "Run",
@@ -126,8 +128,23 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/leetcode/LC2924" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/leetcode/LC3305" />
+    </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestTimeRequiredToBuy in cutejiuge/leetcode-practice/leetcode/LC2073">
+  <component name="RunManager" selected="Go Test.TestCountOfSubstrings in cutejiuge/leetcode-practice/leetcode/LC3305">
+    <configuration name="TestCountOfSubstrings in cutejiuge/leetcode-practice/leetcode/LC3305" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC3305" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC3305" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestCountOfSubstrings\E$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestDistinctNames in cutejiuge/leetcode-practice/leetcode/LC2306" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC2306" />
@@ -140,16 +157,16 @@
       <pattern value="^\QTestDistinctNames\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestMaxScoreSightseeingPair in cutejiuge/leetcode-practice/leetcode/LC1014" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestKthCharacter in cutejiuge/leetcode-practice/leetcode/LC3304" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC1014" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC3304" />
       <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC1014" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC3304" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestMaxScoreSightseeingPair\E$" />
+      <pattern value="^\QTestKthCharacter\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestMaximumSubsequenceCount in cutejiuge/leetcode-practice/leetcode/LC2207" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -162,18 +179,6 @@
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
       <pattern value="^\QTestMaximumSubsequenceCount\E$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestMinNumberOfSeconds in cutejiuge/leetcode-practice/leetcode/race416_q2" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/race416_q2" />
-      <root_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/race416_q2" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestMinNumberOfSeconds\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestTimeRequiredToBuy in cutejiuge/leetcode-practice/leetcode/LC2073" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -190,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestCountOfSubstrings in cutejiuge/leetcode-practice/leetcode/LC3305" />
+        <item itemvalue="Go Test.TestKthCharacter in cutejiuge/leetcode-practice/leetcode/LC3304" />
         <item itemvalue="Go Test.TestTimeRequiredToBuy in cutejiuge/leetcode-practice/leetcode/LC2073" />
         <item itemvalue="Go Test.TestDistinctNames in cutejiuge/leetcode-practice/leetcode/LC2306" />
         <item itemvalue="Go Test.TestMaximumSubsequenceCount in cutejiuge/leetcode-practice/leetcode/LC2207" />
-        <item itemvalue="Go Test.TestMaxScoreSightseeingPair in cutejiuge/leetcode-practice/leetcode/LC1014" />
-        <item itemvalue="Go Test.TestMinNumberOfSeconds in cutejiuge/leetcode-practice/leetcode/race416_q2" />
       </list>
     </recent_temporary>
   </component>
