@@ -1,0 +1,11 @@
+case1:
+  paths: [["London","New York"],["New York","Lima"],["Lima","Sao Paulo"]]
+  expect_res: "Sao Paulo"
+
+case2:
+  paths: [["B","C"],["D","B"],["C","A"]]
+  expect_res: "A"
+
+case3:
+  paths: [["A","Z"]]
+  expect_res: "Z"
