@@ -61,6 +61,7 @@
     "Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC1103.executor": "Run",
     "Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC2928.executor": "Run",
     "Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC575.executor": "Run",
+    "Go Test.TestDuplicateNumbersXOR in cutejiuge/leetcode-practice/leetcode/LC3158.executor": "Run",
     "Go Test.TestFallingSquares in cutejiuge/leetcode-practice/leetcode/LC699.executor": "Run",
     "Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2923.executor": "Run",
     "Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2924.executor": "Run",
@@ -134,7 +135,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC3305" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestDestCity in cutejiuge/leetcode-practice/leetcode/LC1436">
+  <component name="RunManager" selected="Go Test.TestDuplicateNumbersXOR in cutejiuge/leetcode-practice/leetcode/LC3158">
     <configuration name="TestCountOfSubstrings in cutejiuge/leetcode-practice/leetcode/LC3305" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC3305" />
@@ -157,6 +158,18 @@
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
       <pattern value="^\QTestDestCity\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestDuplicateNumbersXOR in cutejiuge/leetcode-practice/leetcode/LC3158" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC3158" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC3158" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestDuplicateNumbersXOR\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestKthCharacter in cutejiuge/leetcode-practice/leetcode/LC3304" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -183,25 +196,13 @@
       <pattern value="^\QTestMinSpeedOnTime\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestTimeRequiredToBuy in cutejiuge/leetcode-practice/leetcode/LC2073" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC2073" />
-      <root_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC2073" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestTimeRequiredToBuy\E$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestDuplicateNumbersXOR in cutejiuge/leetcode-practice/leetcode/LC3158" />
         <item itemvalue="Go Test.TestDestCity in cutejiuge/leetcode-practice/leetcode/LC1436" />
         <item itemvalue="Go Test.TestMinSpeedOnTime in cutejiuge/leetcode-practice/leetcode/LC1870" />
         <item itemvalue="Go Test.TestCountOfSubstrings in cutejiuge/leetcode-practice/leetcode/LC3305" />
         <item itemvalue="Go Test.TestKthCharacter in cutejiuge/leetcode-practice/leetcode/LC3304" />
-        <item itemvalue="Go Test.TestTimeRequiredToBuy in cutejiuge/leetcode-practice/leetcode/LC2073" />
       </list>
     </recent_temporary>
   </component>
