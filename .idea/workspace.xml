@@ -26,6 +26,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -120,11 +123,11 @@
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/home/wujie/myFiles/GoCode/easy_parctice",
+    "last_opened_file_path": "/home/wujie/docker/otel/conf/otel-collector-config.yaml",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "fileTemplates"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -135,7 +138,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC3305" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestDuplicateNumbersXOR in cutejiuge/leetcode-practice/leetcode/LC3158">
+  <component name="RunManager" selected="Go Test.TestTwoEggDrop in cutejiuge/leetcode-practice/leetcode/LC1884">
     <configuration name="TestCountOfSubstrings in cutejiuge/leetcode-practice/leetcode/LC3305" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC3305" />
@@ -172,18 +175,6 @@
       <pattern value="^\QTestDuplicateNumbersXOR\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestKthCharacter in cutejiuge/leetcode-practice/leetcode/LC3304" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC3304" />
-      <root_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC3304" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestKthCharacter\E$" />
-      <method v="2" />
-    </configuration>
     <configuration name="TestMinSpeedOnTime in cutejiuge/leetcode-practice/leetcode/LC1870" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC1870" />
@@ -196,13 +187,25 @@
       <pattern value="^\QTestMinSpeedOnTime\E$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestTwoEggDrop in cutejiuge/leetcode-practice/leetcode/LC1884" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC1884" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC1884" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestTwoEggDrop\E$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestTwoEggDrop in cutejiuge/leetcode-practice/leetcode/LC1884" />
         <item itemvalue="Go Test.TestDuplicateNumbersXOR in cutejiuge/leetcode-practice/leetcode/LC3158" />
         <item itemvalue="Go Test.TestDestCity in cutejiuge/leetcode-practice/leetcode/LC1436" />
         <item itemvalue="Go Test.TestMinSpeedOnTime in cutejiuge/leetcode-practice/leetcode/LC1870" />
         <item itemvalue="Go Test.TestCountOfSubstrings in cutejiuge/leetcode-practice/leetcode/LC3305" />
-        <item itemvalue="Go Test.TestKthCharacter in cutejiuge/leetcode-practice/leetcode/LC3304" />
       </list>
     </recent_temporary>
   </component>

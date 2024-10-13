@@ -1,0 +1,7 @@
+case1:
+  n: 2
+  expect_res: 2
+
+case2:
+  n: 100
+  expect_res: 14
