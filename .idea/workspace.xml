@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1e49ea8c-a4ac-4aa1-bee0-b09831847977" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/appearance.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/core-plugins-migration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/core-plugins.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +110,7 @@
     &quot;Go Test.TestPrintYaml in cutejiuge/leetcode-practice/leetcode/LC419.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestRemoveTrailingZeros in cutejiuge/leetcode-practice/leetcode/LC2710.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestSmallestBeautifulString in cutejiuge/leetcode-practice/leetcode/LC2663.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestSuperEggDrop in cutejiuge/leetcode-practice/leetcode/LC887.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestTimeRequiredToBuy in cutejiuge/leetcode-practice/leetcode/LC2073.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestTotalCost in cutejiuge/leetcode-practice/leetcode/LC2462.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestTwoEggDrop in cutejiuge/leetcode-practice/leetcode/LC1884.executor&quot;: &quot;Run&quot;,
@@ -144,7 +140,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC3305" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestSuperEggDrop in cutejiuge/leetcode-practice/leetcode/LC887">
+  <component name="RunManager" selected="Go Test.TestMaxHeightOfTriangle in cutejiuge/leetcode-practice/leetcode/LC3200">
     <configuration name="TestDestCity in cutejiuge/leetcode-practice/leetcode/LC1436" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC1436" />
@@ -169,16 +165,16 @@
       <pattern value="^\QTestDuplicateNumbersXOR\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestMinSpeedOnTime in cutejiuge/leetcode-practice/leetcode/LC1870" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMaxHeightOfTriangle in cutejiuge/leetcode-practice/leetcode/LC3200" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC1870" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC3200" />
       <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC1870" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC3200" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestMinSpeedOnTime\E$" />
+      <pattern value="^\QTestMaxHeightOfTriangle\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestSuperEggDrop in cutejiuge/leetcode-practice/leetcode/LC887" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -207,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestMaxHeightOfTriangle in cutejiuge/leetcode-practice/leetcode/LC3200" />
         <item itemvalue="Go Test.TestSuperEggDrop in cutejiuge/leetcode-practice/leetcode/LC887" />
         <item itemvalue="Go Test.TestTwoEggDrop in cutejiuge/leetcode-practice/leetcode/LC1884" />
         <item itemvalue="Go Test.TestDuplicateNumbersXOR in cutejiuge/leetcode-practice/leetcode/LC3158" />
         <item itemvalue="Go Test.TestDestCity in cutejiuge/leetcode-practice/leetcode/LC1436" />
-        <item itemvalue="Go Test.TestMinSpeedOnTime in cutejiuge/leetcode-practice/leetcode/LC1870" />
       </list>
     </recent_temporary>
   </component>

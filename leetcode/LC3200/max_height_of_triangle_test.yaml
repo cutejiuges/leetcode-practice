@@ -1,0 +1,19 @@
+case1:
+  red: 2
+  blue: 4
+  expect_res: 3
+
+case2:
+  red: 2
+  blue: 1
+  expect_res: 2
+
+case3:
+  red: 1
+  blue: 1
+  expect_res: 1
+
+case4:
+  red: 10
+  blue: 1
+  expect_res: 2
