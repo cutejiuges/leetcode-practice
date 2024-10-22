@@ -1,0 +1,7 @@
+case1:
+  hours: [12,12,30,24,24]
+  expect_res: 2
+
+case2:
+  hours: [72,48,24,3]
+  expect_res: 3
