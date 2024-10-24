@@ -1,0 +1,9 @@
+case1:
+  skills: [4,2,6,3,9]
+  k: 2
+  expect_res: 2
+
+case2:
+  skills: [2,5,4]
+  k: 3
+  expect_res: 1
