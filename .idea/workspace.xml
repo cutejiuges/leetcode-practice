@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1e49ea8c-a4ac-4aa1-bee0-b09831847977" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/LC3175/find_winning_player_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/LC3175/find_winning_player_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +76,7 @@
     &quot;Go Test.TestFindLUSlength in cutejiuge/leetcode-practice/leetcode/LC521.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestFindMaximumNumber in cutejiuge/leetcode-practice/leetcode/LC3007.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestFindPermutationDifference in cutejiuge/leetcode-practice/leetcode/LC3146.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestFindWinningPlayer in cutejiuge/leetcode-practice/leetcode/LC3175.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestGarbageCollection in cutejiuge/leetcode-practice/leetcode/LC2391.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestGetCoprimes in cutejiuge/leetcode-practice/leetcode/LC1766.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestGetWinner in cutejiuge/leetcode-practice/leetcode/LC1535.executor&quot;: &quot;Run&quot;,
@@ -150,7 +150,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC3305" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestFindWinningPlayer in cutejiuge/leetcode-practice/leetcode/LC3175">
+  <component name="RunManager" selected="Go Test.TestMaxTotalReward in cutejiuge/leetcode-practice/leetcode/LC3181">
     <configuration name="TestFindWinningPlayer in cutejiuge/leetcode-practice/leetcode/LC3175" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC3175" />
@@ -163,16 +163,16 @@
       <pattern value="^\QTestFindWinningPlayer\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestSmallestRangeI in cutejiuge/leetcode-practice/leetcode/LC908" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMaxTotalReward in cutejiuge/leetcode-practice/leetcode/LC3181" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC908" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC3181" />
       <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC908" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC3181" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestSmallestRangeI\E$" />
+      <pattern value="^\QTestMaxTotalReward\E$" />
       <method v="2" />
     </configuration>
     <configuration name="Test_numberOfSubstrings in cutejiuge/leetcode-practice/leetcode/race420_q2" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -213,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestMaxTotalReward in cutejiuge/leetcode-practice/leetcode/LC3181" />
         <item itemvalue="Go Test.TestFindWinningPlayer in cutejiuge/leetcode-practice/leetcode/LC3175" />
         <item itemvalue="Go Test.Test_stringSequence/case1 in cutejiuge/leetcode-practice/leetcode/race420_q1" />
         <item itemvalue="Go Test.Test_numberOfSubstrings/case1 in cutejiuge/leetcode-practice/leetcode/race420_q2" />
         <item itemvalue="Go Test.Test_numberOfSubstrings in cutejiuge/leetcode-practice/leetcode/race420_q2" />
-        <item itemvalue="Go Test.TestSmallestRangeI in cutejiuge/leetcode-practice/leetcode/LC908" />
       </list>
     </recent_temporary>
   </component>
