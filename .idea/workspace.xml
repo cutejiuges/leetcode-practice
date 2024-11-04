@@ -83,6 +83,7 @@
     "Go Test.TestGetWinner in cutejiuge/leetcode-practice/leetcode/LC1535.executor": "Run",
     "Go Test.TestGoodSubsetofBinaryMatrix in cutejiuge/leetcode-practice/leetcode/LC2732.executor": "Run",
     "Go Test.TestJobScheduling in cutejiuge/leetcode-practice/leetcode/LC1235.executor": "Run",
+    "Go Test.TestJudgeSquareSum in cutejiuge/leetcode-practice/leetcode/LC633.executor": "Run",
     "Go Test.TestKthCharacter in cutejiuge/leetcode-practice/leetcode/LC3304.executor": "Run",
     "Go Test.TestMaxDivScore in cutejiuge/leetcode-practice/leetcode/LC2644.executor": "Run",
     "Go Test.TestMaxHeightOfTriangle in cutejiuge/leetcode-practice/leetcode/LC3200.executor": "Run",
@@ -152,7 +153,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC3305" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestFindRedundantConnection in cutejiuge/leetcode-practice/leetcode/LC684">
+  <component name="RunManager" selected="Go Test.TestJudgeSquareSum in cutejiuge/leetcode-practice/leetcode/LC633">
     <configuration name="TestFindRedundantConnection in cutejiuge/leetcode-practice/leetcode/LC684" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC684" />
@@ -177,6 +178,18 @@
       <pattern value="^\QTestFindWinningPlayer\E$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestJudgeSquareSum in cutejiuge/leetcode-practice/leetcode/LC633" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC633" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC633" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestJudgeSquareSum\E$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestMaxTotalReward in cutejiuge/leetcode-practice/leetcode/LC3181" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC3181" />
@@ -187,18 +200,6 @@
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
       <pattern value="^\QTestMaxTotalReward\E$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test_numberOfSubstrings/case1 in cutejiuge/leetcode-practice/leetcode/race420_q2" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/race420_q2" />
-      <root_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/race420_q2" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTest_numberOfSubstrings\E$/^\Qcase1\E$" />
       <method v="2" />
     </configuration>
     <configuration name="Test_stringSequence/case1 in cutejiuge/leetcode-practice/leetcode/race420_q1" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -215,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestJudgeSquareSum in cutejiuge/leetcode-practice/leetcode/LC633" />
         <item itemvalue="Go Test.TestFindRedundantConnection in cutejiuge/leetcode-practice/leetcode/LC684" />
         <item itemvalue="Go Test.TestMaxTotalReward in cutejiuge/leetcode-practice/leetcode/LC3181" />
         <item itemvalue="Go Test.TestFindWinningPlayer in cutejiuge/leetcode-practice/leetcode/LC3175" />
         <item itemvalue="Go Test.Test_stringSequence/case1 in cutejiuge/leetcode-practice/leetcode/race420_q1" />
-        <item itemvalue="Go Test.Test_numberOfSubstrings/case1 in cutejiuge/leetcode-practice/leetcode/race420_q2" />
       </list>
     </recent_temporary>
   </component>
