@@ -1,0 +1,9 @@
+case1:
+  x: 2
+  y: 7
+  expect_res: "Alice"
+
+case2:
+  x: 4
+  y: 11
+  expect_res: "Bob"
