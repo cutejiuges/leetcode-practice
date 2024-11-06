@@ -85,6 +85,7 @@
     &quot;Go Test.TestJobScheduling in cutejiuge/leetcode-practice/leetcode/LC1235.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestJudgeSquareSum in cutejiuge/leetcode-practice/leetcode/LC633.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestKthCharacter in cutejiuge/leetcode-practice/leetcode/LC3304.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestLosingPlayer in cutejiuge/leetcode-practice/leetcode/LC3222.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestMaxDivScore in cutejiuge/leetcode-practice/leetcode/LC2644.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestMaxHeightOfTriangle in cutejiuge/leetcode-practice/leetcode/LC3200.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestMaxIncreaseKeepingSkyline in cutejiuge/leetcode-practice/leetcode/LC807.executor&quot;: &quot;Run&quot;,
@@ -150,10 +151,11 @@
       <recent name="$PROJECT_DIR$/leetcode/LC2924" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/leetcode/LC3254" />
       <recent name="$PROJECT_DIR$/leetcode/LC3305" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestJudgeSquareSum in cutejiuge/leetcode-practice/leetcode/LC633">
+  <component name="RunManager" selected="Go Test.TestResultsArray in cutejiuge/leetcode-practice/leetcode/LC3254">
     <configuration name="TestFindRedundantConnection in cutejiuge/leetcode-practice/leetcode/LC684" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC684" />
@@ -164,18 +166,6 @@
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
       <pattern value="^\QTestFindRedundantConnection\E$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestFindWinningPlayer in cutejiuge/leetcode-practice/leetcode/LC3175" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC3175" />
-      <root_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC3175" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestFindWinningPlayer\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestJudgeSquareSum in cutejiuge/leetcode-practice/leetcode/LC633" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -190,6 +180,18 @@
       <pattern value="^\QTestJudgeSquareSum\E$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestLosingPlayer in cutejiuge/leetcode-practice/leetcode/LC3222" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC3222" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC3222" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestLosingPlayer\E$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestMaxTotalReward in cutejiuge/leetcode-practice/leetcode/LC3181" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC3181" />
@@ -202,25 +204,25 @@
       <pattern value="^\QTestMaxTotalReward\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="Test_stringSequence/case1 in cutejiuge/leetcode-practice/leetcode/race420_q1" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestResultsArray in cutejiuge/leetcode-practice/leetcode/LC3254" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/race420_q1" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC3254" />
       <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/race420_q1" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC3254" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTest_stringSequence\E$/^\Qcase1\E$" />
+      <pattern value="^\QTestResultsArray\E$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestResultsArray in cutejiuge/leetcode-practice/leetcode/LC3254" />
+        <item itemvalue="Go Test.TestLosingPlayer in cutejiuge/leetcode-practice/leetcode/LC3222" />
         <item itemvalue="Go Test.TestJudgeSquareSum in cutejiuge/leetcode-practice/leetcode/LC633" />
         <item itemvalue="Go Test.TestFindRedundantConnection in cutejiuge/leetcode-practice/leetcode/LC684" />
         <item itemvalue="Go Test.TestMaxTotalReward in cutejiuge/leetcode-practice/leetcode/LC3181" />
-        <item itemvalue="Go Test.TestFindWinningPlayer in cutejiuge/leetcode-practice/leetcode/LC3175" />
-        <item itemvalue="Go Test.Test_stringSequence/case1 in cutejiuge/leetcode-practice/leetcode/race420_q1" />
       </list>
     </recent_temporary>
   </component>
