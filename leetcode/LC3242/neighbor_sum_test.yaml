@@ -1,0 +1,11 @@
+case1:
+  commands: ["neighborSum", "adjacentSum", "adjacentSum", "diagonalSum", "diagonalSum"]
+  grid: [[0, 1, 2], [3, 4, 5], [6, 7, 8]]
+  values: [1, 4, 4, 8]
+  expect_res: ["null", "6", "16", "16", "4"]
+
+case2:
+  commands: ["neighborSum", "adjacentSum", "diagonalSum"]
+  grid: [[1, 2, 0, 3], [4, 7, 15, 6], [8, 9, 10, 11], [12, 13, 14, 5]]
+  values: [15, 9]
+  expect_res:  ["null", "23", "45"]

@@ -27,7 +27,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -119,6 +119,7 @@
     &quot;Go Test.TestPrint in cutejiuge/leetcode-practice/leetcode/LC1600.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestPrintYaml in cutejiuge/leetcode-practice/leetcode/LC419.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestRemoveTrailingZeros in cutejiuge/leetcode-practice/leetcode/LC2710.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestResultsArray in cutejiuge/leetcode-practice/leetcode/LC3254.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestSmallestBeautifulString in cutejiuge/leetcode-practice/leetcode/LC2663.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestSmallestRangeI in cutejiuge/leetcode-practice/leetcode/LC908.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestSuperEggDrop in cutejiuge/leetcode-practice/leetcode/LC887.executor&quot;: &quot;Run&quot;,
