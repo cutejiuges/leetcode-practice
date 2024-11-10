@@ -1,0 +1,7 @@
+case1:
+  nums: [1,1,2,3,3,4,4,8,8]
+  expect_res: 2
+
+case2:
+  nums: [3,3,7,7,10,11,11]
+  expect_res: 10
