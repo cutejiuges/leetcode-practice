@@ -1,0 +1,14 @@
+case1:
+  s: "10101"
+  k: 1
+  expect_res: 12
+
+case2:
+  s: "1010101"
+  k: 2
+  expect_res: 25
+
+case3:
+  s: "11111"
+  k: 1
+  expect_res: 15
