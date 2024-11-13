@@ -1,0 +1,11 @@
+case1:
+  s: "0001111"
+  k: 2
+  queries: [[0,6]]
+  expect_res: [26]
+
+case2:
+  s: "010101"
+  k: 1
+  queries: [[0,5],[1,4],[2,3]]
+  expect_res: [15,9,3]
