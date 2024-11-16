@@ -55,6 +55,7 @@
     &quot;Go Test.TestCountBattleships in cutejiuge/leetcode-practice/leetcode/LC419.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestCountBeautifulPairs in cutejiuge/leetcode-practice/leetcode/LC2748.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestCountCompleteDayPairs in cutejiuge/leetcode-practice/leetcode/LC3184.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestCountGoodNodes in cutejiuge/leetcode-practice/leetcode/LC3249.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestCountKConstraintSubstrings in cutejiuge/leetcode-practice/leetcode/LC3258.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestCountKConstraintSubstrings in cutejiuge/leetcode-practice/leetcode/LC3261.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestCountOfSubstrings in cutejiuge/leetcode-practice/leetcode/LC3305.executor&quot;: &quot;Run&quot;,
@@ -161,7 +162,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC3305" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestCountGoodNodes in cutejiuge/leetcode-practice/leetcode/LC3249">
+  <component name="RunManager" selected="Go Test.TestMinFlips in cutejiuge/leetcode-practice/leetcode/LC3240">
     <configuration name="TestCountGoodNodes in cutejiuge/leetcode-practice/leetcode/LC3249" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC3249" />
@@ -210,25 +211,25 @@
       <pattern value="^\QTestMinCost\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestSingleNonDuplicate in cutejiuge/leetcode-practice/leetcode/LC540" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMinFlips in cutejiuge/leetcode-practice/leetcode/LC3240" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC540" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC3240" />
       <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC540" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC3240" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestSingleNonDuplicate\E$" />
+      <pattern value="^\QTestMinFlips\E$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestMinFlips in cutejiuge/leetcode-practice/leetcode/LC3240" />
         <item itemvalue="Go Test.TestCountGoodNodes in cutejiuge/leetcode-practice/leetcode/LC3249" />
         <item itemvalue="Go Test.TestCountKConstraintSubstrings in cutejiuge/leetcode-practice/leetcode/LC3261" />
         <item itemvalue="Go Test.TestCountKConstraintSubstrings in cutejiuge/leetcode-practice/leetcode/LC3258" />
         <item itemvalue="Go Test.TestMinCost in cutejiuge/leetcode-practice/leetcode/LC1547" />
-        <item itemvalue="Go Test.TestSingleNonDuplicate in cutejiuge/leetcode-practice/leetcode/LC540" />
       </list>
     </recent_temporary>
   </component>
