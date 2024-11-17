@@ -1,0 +1,11 @@
+case1:
+  ages: [16, 16]
+  expect_res: 2
+
+case2:
+  ages: [16, 17, 18]
+  expect_res: 2
+
+case3:
+  ages: [20,30,100,110,120]
+  expect_res: 3
