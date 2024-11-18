@@ -88,6 +88,7 @@
     "Go Test.TestGetCoprimes in cutejiuge/leetcode-practice/leetcode/LC1766.executor": "Run",
     "Go Test.TestGetWinner in cutejiuge/leetcode-practice/leetcode/LC1535.executor": "Run",
     "Go Test.TestGoodSubsetofBinaryMatrix in cutejiuge/leetcode-practice/leetcode/LC2732.executor": "Run",
+    "Go Test.TestImageSmoother in cutejiuge/leetcode-practice/leetcode/LC661.executor": "Run",
     "Go Test.TestJobScheduling in cutejiuge/leetcode-practice/leetcode/LC1235.executor": "Run",
     "Go Test.TestJudgeSquareSum in cutejiuge/leetcode-practice/leetcode/LC633.executor": "Run",
     "Go Test.TestKthCharacter in cutejiuge/leetcode-practice/leetcode/LC3304.executor": "Run",
@@ -167,7 +168,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC3305" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestNumFriendRequests in cutejiuge/leetcode-practice/leetcode/LC825">
+  <component name="RunManager" selected="Go Test.TestImageSmoother in cutejiuge/leetcode-practice/leetcode/LC661">
     <configuration name="go build cutejiuge/leetcode-practice/race/weekly_424/q1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$" />
@@ -195,16 +196,16 @@
       <filePath value="$PROJECT_DIR$/race/weekly_424/q3/is_zero_array.go" />
       <method v="2" />
     </configuration>
-    <configuration name="TestMinFlips in cutejiuge/leetcode-practice/leetcode/LC3240" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestImageSmoother in cutejiuge/leetcode-practice/leetcode/LC661" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC3240" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC661" />
       <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC3240" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC661" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestMinFlips\E$" />
+      <pattern value="^\QTestImageSmoother\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestNumFriendRequests in cutejiuge/leetcode-practice/leetcode/LC825" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -221,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestImageSmoother in cutejiuge/leetcode-practice/leetcode/LC661" />
         <item itemvalue="Go Test.TestNumFriendRequests in cutejiuge/leetcode-practice/leetcode/LC825" />
         <item itemvalue="Go Build.go build cutejiuge/leetcode-practice/race/weekly_424/q3" />
         <item itemvalue="Go Build.go build cutejiuge/leetcode-practice/race/weekly_424/q2" />
         <item itemvalue="Go Build.go build cutejiuge/leetcode-practice/race/weekly_424/q1" />
-        <item itemvalue="Go Test.TestMinFlips in cutejiuge/leetcode-practice/leetcode/LC3240" />
       </list>
     </recent_temporary>
   </component>
