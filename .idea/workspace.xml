@@ -131,6 +131,7 @@
     "Go Test.TestPrintYaml in cutejiuge/leetcode-practice/leetcode/LC419.executor": "Run",
     "Go Test.TestRemoveTrailingZeros in cutejiuge/leetcode-practice/leetcode/LC2710.executor": "Run",
     "Go Test.TestResultsArray in cutejiuge/leetcode-practice/leetcode/LC3254.executor": "Run",
+    "Go Test.TestShortestDistanceAfterQueries in cutejiuge/leetcode-practice/leetcode/LC3243.executor": "Run",
     "Go Test.TestSingleNonDuplicate in cutejiuge/leetcode-practice/leetcode/LC540.executor": "Run",
     "Go Test.TestSmallestBeautifulString in cutejiuge/leetcode-practice/leetcode/LC2663.executor": "Run",
     "Go Test.TestSmallestRangeI in cutejiuge/leetcode-practice/leetcode/LC908.executor": "Run",
@@ -168,16 +169,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC3305" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestImageSmoother in cutejiuge/leetcode-practice/leetcode/LC661">
-    <configuration name="go build cutejiuge/leetcode-practice/race/weekly_424/q1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/race/weekly_424/q1" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/race/weekly_424/q1/count_valid_selections.go" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Test.TestShortestDistanceAfterQueries in cutejiuge/leetcode-practice/leetcode/LC3243">
     <configuration name="go build cutejiuge/leetcode-practice/race/weekly_424/q2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$" />
@@ -220,13 +212,25 @@
       <pattern value="^\QTestNumFriendRequests\E$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestShortestDistanceAfterQueries in cutejiuge/leetcode-practice/leetcode/LC3243" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC3243" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC3243" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestShortestDistanceAfterQueries\E$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestShortestDistanceAfterQueries in cutejiuge/leetcode-practice/leetcode/LC3243" />
         <item itemvalue="Go Test.TestImageSmoother in cutejiuge/leetcode-practice/leetcode/LC661" />
         <item itemvalue="Go Test.TestNumFriendRequests in cutejiuge/leetcode-practice/leetcode/LC825" />
         <item itemvalue="Go Build.go build cutejiuge/leetcode-practice/race/weekly_424/q3" />
         <item itemvalue="Go Build.go build cutejiuge/leetcode-practice/race/weekly_424/q2" />
-        <item itemvalue="Go Build.go build cutejiuge/leetcode-practice/race/weekly_424/q1" />
       </list>
     </recent_temporary>
   </component>
