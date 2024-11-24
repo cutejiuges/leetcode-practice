@@ -46,6 +46,9 @@
     "Go Build.go build cutejiuge/leetcode-practice/race/weekly_424/q1.executor": "Run",
     "Go Build.go build cutejiuge/leetcode-practice/race/weekly_424/q2.executor": "Run",
     "Go Build.go build cutejiuge/leetcode-practice/race/weekly_424/q3.executor": "Run",
+    "Go Build.go build cutejiuge/leetcode-practice/race/weekly_425/q1.executor": "Run",
+    "Go Build.go build cutejiuge/leetcode-practice/race/weekly_425/q2.executor": "Run",
+    "Go Build.go build cutejiuge/leetcode-practice/race/weekly_425/q3.executor": "Run",
     "Go Test.TestAccountBalanceAfterPurchase in cutejiuge/leetcode-practice/leetcode/LC2806.executor": "Run",
     "Go Test.TestAverage in cutejiuge/leetcode-practice/leetcode/LC1491.executor": "Run",
     "Go Test.TestBusyStudent in cutejiuge/leetcode-practice/leetcode/LC1450.executor": "Run",
@@ -170,50 +173,44 @@
       <recent name="$PROJECT_DIR$/leetcode/LC3305" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestWinningPlayerCount in cutejiuge/leetcode-practice/leetcode/LC3238">
-    <configuration name="go build cutejiuge/leetcode-practice/race/weekly_424/q3" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.TestSmallestRange in cutejiuge/leetcode-practice/leetcode/LC632">
+    <configuration name="go build cutejiuge/leetcode-practice/race/weekly_425/q1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/race/weekly_424/q3" />
+      <package value="cutejiuge/leetcode-practice/race/weekly_425/q1" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/race/weekly_424/q3/is_zero_array.go" />
+      <filePath value="$PROJECT_DIR$/race/weekly_425/q1/minimum_sum_subarray.go" />
       <method v="2" />
     </configuration>
-    <configuration name="TestImageSmoother in cutejiuge/leetcode-practice/leetcode/LC661" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go build cutejiuge/leetcode-practice/race/weekly_425/q2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC661" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/race/weekly_425/q2" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/race/weekly_425/q2/is_possible_to_rearrange.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build cutejiuge/leetcode-practice/race/weekly_425/q3" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/race/weekly_425/q3" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/race/weekly_425/q3/min_array_sum.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSmallestRange in cutejiuge/leetcode-practice/leetcode/LC632" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC632" />
       <root_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC661" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC632" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestImageSmoother\E$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestNumFriendRequests in cutejiuge/leetcode-practice/leetcode/LC825" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC825" />
-      <root_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC825" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestNumFriendRequests\E$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestShortestDistanceAfterQueries in cutejiuge/leetcode-practice/leetcode/LC3243" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC3243" />
-      <root_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC3243" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestShortestDistanceAfterQueries\E$" />
+      <pattern value="^\QTestSmallestRange\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestWinningPlayerCount in cutejiuge/leetcode-practice/leetcode/LC3238" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -230,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestSmallestRange in cutejiuge/leetcode-practice/leetcode/LC632" />
+        <item itemvalue="Go Build.go build cutejiuge/leetcode-practice/race/weekly_425/q3" />
+        <item itemvalue="Go Build.go build cutejiuge/leetcode-practice/race/weekly_425/q2" />
+        <item itemvalue="Go Build.go build cutejiuge/leetcode-practice/race/weekly_425/q1" />
         <item itemvalue="Go Test.TestWinningPlayerCount in cutejiuge/leetcode-practice/leetcode/LC3238" />
-        <item itemvalue="Go Test.TestShortestDistanceAfterQueries in cutejiuge/leetcode-practice/leetcode/LC3243" />
-        <item itemvalue="Go Test.TestImageSmoother in cutejiuge/leetcode-practice/leetcode/LC661" />
-        <item itemvalue="Go Test.TestNumFriendRequests in cutejiuge/leetcode-practice/leetcode/LC825" />
-        <item itemvalue="Go Build.go build cutejiuge/leetcode-practice/race/weekly_424/q3" />
       </list>
     </recent_temporary>
   </component>
