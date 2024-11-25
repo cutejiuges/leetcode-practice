@@ -40,130 +40,131 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultGoTemplateProperty": "Go File",
-    "Go Build.go build cutejiuge/leetcode-practice/race/weekly_424/q1.executor": "Run",
-    "Go Build.go build cutejiuge/leetcode-practice/race/weekly_424/q2.executor": "Run",
-    "Go Build.go build cutejiuge/leetcode-practice/race/weekly_424/q3.executor": "Run",
-    "Go Build.go build cutejiuge/leetcode-practice/race/weekly_425/q1.executor": "Run",
-    "Go Build.go build cutejiuge/leetcode-practice/race/weekly_425/q2.executor": "Run",
-    "Go Build.go build cutejiuge/leetcode-practice/race/weekly_425/q3.executor": "Run",
-    "Go Test.TestAccountBalanceAfterPurchase in cutejiuge/leetcode-practice/leetcode/LC2806.executor": "Run",
-    "Go Test.TestAverage in cutejiuge/leetcode-practice/leetcode/LC1491.executor": "Run",
-    "Go Test.TestBusyStudent in cutejiuge/leetcode-practice/leetcode/LC1450.executor": "Run",
-    "Go Test.TestCanSortArray in cutejiuge/leetcode-practice/leetcode/LC3011.executor": "Run",
-    "Go Test.TestCheckRecord in cutejiuge/leetcode-practice/leetcode/LC551.executor": "Run",
-    "Go Test.TestCherryPickup in cutejiuge/leetcode-practice/leetcode/LC1463.executor": "Run",
-    "Go Test.TestCherryPickup in cutejiuge/leetcode-practice/leetcode/LC741.executor": "Run",
-    "Go Test.TestClosestNodes in cutejiuge/leetcode-practice/leetcode/LC2476.executor": "Run",
-    "Go Test.TestCombinationSum in cutejiuge/leetcode-practice/leetcode/LC39.executor": "Run",
-    "Go Test.TestCountBattleships in cutejiuge/leetcode-practice/leetcode/LC419.executor": "Run",
-    "Go Test.TestCountBeautifulPairs in cutejiuge/leetcode-practice/leetcode/LC2748.executor": "Run",
-    "Go Test.TestCountCompleteDayPairs in cutejiuge/leetcode-practice/leetcode/LC3184.executor": "Run",
-    "Go Test.TestCountGoodNodes in cutejiuge/leetcode-practice/leetcode/LC3249.executor": "Run",
-    "Go Test.TestCountKConstraintSubstrings in cutejiuge/leetcode-practice/leetcode/LC3258.executor": "Run",
-    "Go Test.TestCountKConstraintSubstrings in cutejiuge/leetcode-practice/leetcode/LC3261.executor": "Run",
-    "Go Test.TestCountOfSubstrings in cutejiuge/leetcode-practice/leetcode/LC3305.executor": "Run",
-    "Go Test.TestCountSpecialNumbers in cutejiuge/leetcode-practice/leetcode/LC2376.executor": "Run",
-    "Go Test.TestCountTestedDevices in cutejiuge/leetcode-practice/leetcode/LC2960.executor": "Run",
-    "Go Test.TestDecrypt in cutejiuge/leetcode-practice/leetcode/LC1652.executor": "Run",
-    "Go Test.TestDestCity in cutejiuge/leetcode-practice/leetcode/LC1436.executor": "Run",
-    "Go Test.TestDetectCapitalUse in cutejiuge/leetcode-practice/leetcode/LC520.executor": "Run",
-    "Go Test.TestDistinctNames in cutejiuge/leetcode-practice/leetcode/LC2306.executor": "Run",
-    "Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC1103.executor": "Run",
-    "Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC2928.executor": "Run",
-    "Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC575.executor": "Run",
-    "Go Test.TestDuplicateNumbersXOR in cutejiuge/leetcode-practice/leetcode/LC3158.executor": "Run",
-    "Go Test.TestFallingSquares in cutejiuge/leetcode-practice/leetcode/LC699.executor": "Run",
-    "Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2923.executor": "Run",
-    "Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2924.executor": "Run",
-    "Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2923.executor": "Run",
-    "Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2924.executor": "Run",
-    "Go Test.TestFindIndices in cutejiuge/leetcode-practice/leetcode/LC2903.executor": "Run",
-    "Go Test.TestFindJudge in cutejiuge/leetcode-practice/leetcode/LC997.executor": "Run",
-    "Go Test.TestFindLUSlength in cutejiuge/leetcode-practice/leetcode/LC521.executor": "Run",
-    "Go Test.TestFindMaximumNumber in cutejiuge/leetcode-practice/leetcode/LC3007.executor": "Run",
-    "Go Test.TestFindPermutationDifference in cutejiuge/leetcode-practice/leetcode/LC3146.executor": "Run",
-    "Go Test.TestFindRedundantConnection in cutejiuge/leetcode-practice/leetcode/LC684.executor": "Run",
-    "Go Test.TestFindWinningPlayer in cutejiuge/leetcode-practice/leetcode/LC3175.executor": "Run",
-    "Go Test.TestGarbageCollection in cutejiuge/leetcode-practice/leetcode/LC2391.executor": "Run",
-    "Go Test.TestGetCoprimes in cutejiuge/leetcode-practice/leetcode/LC1766.executor": "Run",
-    "Go Test.TestGetWinner in cutejiuge/leetcode-practice/leetcode/LC1535.executor": "Run",
-    "Go Test.TestGoodSubsetofBinaryMatrix in cutejiuge/leetcode-practice/leetcode/LC2732.executor": "Run",
-    "Go Test.TestImageSmoother in cutejiuge/leetcode-practice/leetcode/LC661.executor": "Run",
-    "Go Test.TestJobScheduling in cutejiuge/leetcode-practice/leetcode/LC1235.executor": "Run",
-    "Go Test.TestJudgeSquareSum in cutejiuge/leetcode-practice/leetcode/LC633.executor": "Run",
-    "Go Test.TestKthCharacter in cutejiuge/leetcode-practice/leetcode/LC3304.executor": "Run",
-    "Go Test.TestLosingPlayer in cutejiuge/leetcode-practice/leetcode/LC3222.executor": "Run",
-    "Go Test.TestMaxDivScore in cutejiuge/leetcode-practice/leetcode/LC2644.executor": "Run",
-    "Go Test.TestMaxHeightOfTriangle in cutejiuge/leetcode-practice/leetcode/LC3200.executor": "Run",
-    "Go Test.TestMaxIncreaseKeepingSkyline in cutejiuge/leetcode-practice/leetcode/LC807.executor": "Run",
-    "Go Test.TestMaxIncreasingCells in cutejiuge/leetcode-practice/leetcode/LC2713.executor": "Run",
-    "Go Test.TestMaxPointsInsideSquare in cutejiuge/leetcode-practice/leetcode/LC3143.executor": "Run",
-    "Go Test.TestMaxSatisfied in cutejiuge/leetcode-practice/leetcode/LC1052.executor": "Run",
-    "Go Test.TestMaxScoreSightseeingPair in cutejiuge/leetcode-practice/leetcode/LC1014.executor": "Run",
-    "Go Test.TestMaxTotalReward in cutejiuge/leetcode-practice/leetcode/LC3181.executor": "Run",
-    "Go Test.TestMaxUncrossedLines in cutejiuge/leetcode-practice/leetcode/LC1035.executor": "Run",
-    "Go Test.TestMaximumDetonation in cutejiuge/leetcode-practice/leetcode/LC2101.executor": "Run",
-    "Go Test.TestMaximumSubsequenceCount in cutejiuge/leetcode-practice/leetcode/LC2207.executor": "Run",
-    "Go Test.TestMaximumSum in cutejiuge/leetcode-practice/leetcode/LC1186.executor": "Run",
-    "Go Test.TestMinCost in cutejiuge/leetcode-practice/leetcode/LC1547.executor": "Run",
-    "Go Test.TestMinDays in cutejiuge/leetcode-practice/leetcode/LC1553.executor": "Run",
-    "Go Test.TestMinEnd in cutejiuge/leetcode-practice/leetcode/LC3133.executor": "Run",
-    "Go Test.TestMinFlips in cutejiuge/leetcode-practice/leetcode/LC3240.executor": "Run",
-    "Go Test.TestMinMalwareSpread in cutejiuge/leetcode-practice/leetcode/LC924.executor": "Run",
-    "Go Test.TestMinNumberOfSeconds in cutejiuge/leetcode-practice/leetcode/race416_q2.executor": "Run",
-    "Go Test.TestMinOperations in cutejiuge/leetcode-practice/leetcode/LC2009.executor": "Run",
-    "Go Test.TestMinOperations in cutejiuge/leetcode-practice/leetcode/LC3191.executor": "Run",
-    "Go Test.TestMinOperations in cutejiuge/leetcode-practice/leetcode/LC3192.executor": "Run",
-    "Go Test.TestMinSpeedOnTime in cutejiuge/leetcode-practice/leetcode/LC1870.executor": "Run",
-    "Go Test.TestMincostToHireWorkers in cutejiuge/leetcode-practice/leetcode/LC857.executor": "Run",
-    "Go Test.TestMinimumAverage in cutejiuge/leetcode-practice/leetcode/LC3194.executor": "Run",
-    "Go Test.TestMinimumDistance in cutejiuge/leetcode-practice/leetcode/LC3102.executor": "Run",
-    "Go Test.TestMinimumRefill in cutejiuge/leetcode-practice/leetcode/LC2105.executor": "Run",
-    "Go Test.TestMinimumRounds in cutejiuge/leetcode-practice/leetcode/LC2244.executor": "Run",
-    "Go Test.TestNeighborSum in cutejiuge/leetcode-practice/leetcode/LC3242.executor": "Run",
-    "Go Test.TestNextGreaterElements in cutejiuge/leetcode-practice/leetcode/LC503.executor": "Run",
-    "Go Test.TestNumFriendRequests in cutejiuge/leetcode-practice/leetcode/LC825.executor": "Run",
-    "Go Test.TestNumOfPairs in cutejiuge/leetcode-practice/leetcode/LC2023.executor": "Run",
-    "Go Test.TestNumRescueBoats in cutejiuge/leetcode-practice/leetcode/LC881.executor": "Run",
-    "Go Test.TestNumberOfEmployeesWhoMetTarget in cutejiuge/leetcode-practice/leetcode/LC2798.executor": "Run",
-    "Go Test.TestOrangesRotting in cutejiuge/leetcode-practice/leetcode/LC994.executor": "Run",
-    "Go Test.TestPrint in cutejiuge/leetcode-practice/leetcode/LC1600.executor": "Run",
-    "Go Test.TestPrintYaml in cutejiuge/leetcode-practice/leetcode/LC419.executor": "Run",
-    "Go Test.TestRemoveTrailingZeros in cutejiuge/leetcode-practice/leetcode/LC2710.executor": "Run",
-    "Go Test.TestResultsArray in cutejiuge/leetcode-practice/leetcode/LC3254.executor": "Run",
-    "Go Test.TestShortestDistanceAfterQueries in cutejiuge/leetcode-practice/leetcode/LC3243.executor": "Run",
-    "Go Test.TestSingleNonDuplicate in cutejiuge/leetcode-practice/leetcode/LC540.executor": "Run",
-    "Go Test.TestSmallestBeautifulString in cutejiuge/leetcode-practice/leetcode/LC2663.executor": "Run",
-    "Go Test.TestSmallestRangeI in cutejiuge/leetcode-practice/leetcode/LC908.executor": "Run",
-    "Go Test.TestSuperEggDrop in cutejiuge/leetcode-practice/leetcode/LC887.executor": "Run",
-    "Go Test.TestTimeRequiredToBuy in cutejiuge/leetcode-practice/leetcode/LC2073.executor": "Run",
-    "Go Test.TestTotalCost in cutejiuge/leetcode-practice/leetcode/LC2462.executor": "Run",
-    "Go Test.TestTwoEggDrop in cutejiuge/leetcode-practice/leetcode/LC1884.executor": "Run",
-    "Go Test.TestWateringPlants in cutejiuge/leetcode-practice/leetcode/LC2079.executor": "Run",
-    "Go Test.TestWaysToReachStair in cutejiuge/leetcode-practice/leetcode/LC3154.executor": "Run",
-    "Go Test.TestWinningPlayerCount in cutejiuge/leetcode-practice/leetcode/LC3238.executor": "Run",
-    "Go Test.Test_numberOfSubstrings in cutejiuge/leetcode-practice/leetcode/race420_q2.executor": "Run",
-    "Go Test.Test_numberOfSubstrings/case1 in cutejiuge/leetcode-practice/leetcode/race420_q2.executor": "Run",
-    "Go Test.Test_stringSequence/case1 in cutejiuge/leetcode-practice/leetcode/race420_q1.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "git-widget-placeholder": "lc__daily",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/home/wujie/myFiles/ReactCode/react-basic",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;Go Build.go build cutejiuge/leetcode-practice/race/weekly_424/q1.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build cutejiuge/leetcode-practice/race/weekly_424/q2.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build cutejiuge/leetcode-practice/race/weekly_424/q3.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build cutejiuge/leetcode-practice/race/weekly_425/q1.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build cutejiuge/leetcode-practice/race/weekly_425/q2.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build cutejiuge/leetcode-practice/race/weekly_425/q3.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestAccountBalanceAfterPurchase in cutejiuge/leetcode-practice/leetcode/LC2806.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestAverage in cutejiuge/leetcode-practice/leetcode/LC1491.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestBusyStudent in cutejiuge/leetcode-practice/leetcode/LC1450.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestCanSortArray in cutejiuge/leetcode-practice/leetcode/LC3011.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestCheckRecord in cutejiuge/leetcode-practice/leetcode/LC551.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestCherryPickup in cutejiuge/leetcode-practice/leetcode/LC1463.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestCherryPickup in cutejiuge/leetcode-practice/leetcode/LC741.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestClosestNodes in cutejiuge/leetcode-practice/leetcode/LC2476.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestCombinationSum in cutejiuge/leetcode-practice/leetcode/LC39.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestCountBattleships in cutejiuge/leetcode-practice/leetcode/LC419.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestCountBeautifulPairs in cutejiuge/leetcode-practice/leetcode/LC2748.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestCountCompleteDayPairs in cutejiuge/leetcode-practice/leetcode/LC3184.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestCountGoodNodes in cutejiuge/leetcode-practice/leetcode/LC3249.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestCountKConstraintSubstrings in cutejiuge/leetcode-practice/leetcode/LC3258.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestCountKConstraintSubstrings in cutejiuge/leetcode-practice/leetcode/LC3261.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestCountOfSubstrings in cutejiuge/leetcode-practice/leetcode/LC3305.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestCountSpecialNumbers in cutejiuge/leetcode-practice/leetcode/LC2376.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestCountTestedDevices in cutejiuge/leetcode-practice/leetcode/LC2960.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestDecrypt in cutejiuge/leetcode-practice/leetcode/LC1652.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestDestCity in cutejiuge/leetcode-practice/leetcode/LC1436.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestDetectCapitalUse in cutejiuge/leetcode-practice/leetcode/LC520.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestDistinctNames in cutejiuge/leetcode-practice/leetcode/LC2306.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC1103.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC2928.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestDistributeCandies in cutejiuge/leetcode-practice/leetcode/LC575.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestDuplicateNumbersXOR in cutejiuge/leetcode-practice/leetcode/LC3158.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestFallingSquares in cutejiuge/leetcode-practice/leetcode/LC699.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2923.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestFindChampion in cutejiuge/leetcode-practice/leetcode/LC2924.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2923.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestFindChampion2 in cutejiuge/leetcode-practice/leetcode/LC2924.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestFindIndices in cutejiuge/leetcode-practice/leetcode/LC2903.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestFindJudge in cutejiuge/leetcode-practice/leetcode/LC997.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestFindLUSlength in cutejiuge/leetcode-practice/leetcode/LC521.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestFindMaximumNumber in cutejiuge/leetcode-practice/leetcode/LC3007.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestFindPermutationDifference in cutejiuge/leetcode-practice/leetcode/LC3146.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestFindRedundantConnection in cutejiuge/leetcode-practice/leetcode/LC684.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestFindWinningPlayer in cutejiuge/leetcode-practice/leetcode/LC3175.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestGarbageCollection in cutejiuge/leetcode-practice/leetcode/LC2391.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestGetCoprimes in cutejiuge/leetcode-practice/leetcode/LC1766.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestGetWinner in cutejiuge/leetcode-practice/leetcode/LC1535.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestGoodSubsetofBinaryMatrix in cutejiuge/leetcode-practice/leetcode/LC2732.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestImageSmoother in cutejiuge/leetcode-practice/leetcode/LC661.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestJobScheduling in cutejiuge/leetcode-practice/leetcode/LC1235.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestJudgeSquareSum in cutejiuge/leetcode-practice/leetcode/LC633.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestKthCharacter in cutejiuge/leetcode-practice/leetcode/LC3304.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestLosingPlayer in cutejiuge/leetcode-practice/leetcode/LC3222.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMaxDivScore in cutejiuge/leetcode-practice/leetcode/LC2644.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMaxHeightOfTriangle in cutejiuge/leetcode-practice/leetcode/LC3200.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMaxIncreaseKeepingSkyline in cutejiuge/leetcode-practice/leetcode/LC807.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMaxIncreasingCells in cutejiuge/leetcode-practice/leetcode/LC2713.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMaxPointsInsideSquare in cutejiuge/leetcode-practice/leetcode/LC3143.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMaxSatisfied in cutejiuge/leetcode-practice/leetcode/LC1052.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMaxScoreSightseeingPair in cutejiuge/leetcode-practice/leetcode/LC1014.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMaxTotalReward in cutejiuge/leetcode-practice/leetcode/LC3181.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMaxUncrossedLines in cutejiuge/leetcode-practice/leetcode/LC1035.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMaximumDetonation in cutejiuge/leetcode-practice/leetcode/LC2101.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMaximumSubsequenceCount in cutejiuge/leetcode-practice/leetcode/LC2207.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMaximumSum in cutejiuge/leetcode-practice/leetcode/LC1186.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMinCost in cutejiuge/leetcode-practice/leetcode/LC1547.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMinDays in cutejiuge/leetcode-practice/leetcode/LC1553.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMinEnd in cutejiuge/leetcode-practice/leetcode/LC3133.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMinFlips in cutejiuge/leetcode-practice/leetcode/LC3240.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMinMalwareSpread in cutejiuge/leetcode-practice/leetcode/LC924.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMinNumberOfSeconds in cutejiuge/leetcode-practice/leetcode/race416_q2.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMinOperations in cutejiuge/leetcode-practice/leetcode/LC2009.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMinOperations in cutejiuge/leetcode-practice/leetcode/LC3191.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMinOperations in cutejiuge/leetcode-practice/leetcode/LC3192.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMinSpeedOnTime in cutejiuge/leetcode-practice/leetcode/LC1870.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMincostToHireWorkers in cutejiuge/leetcode-practice/leetcode/LC857.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMinimumAverage in cutejiuge/leetcode-practice/leetcode/LC3194.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMinimumDistance in cutejiuge/leetcode-practice/leetcode/LC3102.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMinimumRefill in cutejiuge/leetcode-practice/leetcode/LC2105.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestMinimumRounds in cutejiuge/leetcode-practice/leetcode/LC2244.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestNeighborSum in cutejiuge/leetcode-practice/leetcode/LC3242.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestNextGreaterElements in cutejiuge/leetcode-practice/leetcode/LC503.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestNumFriendRequests in cutejiuge/leetcode-practice/leetcode/LC825.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestNumOfPairs in cutejiuge/leetcode-practice/leetcode/LC2023.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestNumRescueBoats in cutejiuge/leetcode-practice/leetcode/LC881.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestNumberOfEmployeesWhoMetTarget in cutejiuge/leetcode-practice/leetcode/LC2798.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestOrangesRotting in cutejiuge/leetcode-practice/leetcode/LC994.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestPrint in cutejiuge/leetcode-practice/leetcode/LC1600.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestPrintYaml in cutejiuge/leetcode-practice/leetcode/LC419.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestRemoveTrailingZeros in cutejiuge/leetcode-practice/leetcode/LC2710.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestResultsArray in cutejiuge/leetcode-practice/leetcode/LC3254.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestShortestDistanceAfterQueries in cutejiuge/leetcode-practice/leetcode/LC3243.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestSingleNonDuplicate in cutejiuge/leetcode-practice/leetcode/LC540.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestSmallestBeautifulString in cutejiuge/leetcode-practice/leetcode/LC2663.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestSmallestRange in cutejiuge/leetcode-practice/leetcode/LC632.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestSmallestRangeI in cutejiuge/leetcode-practice/leetcode/LC908.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestSuperEggDrop in cutejiuge/leetcode-practice/leetcode/LC887.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestTimeRequiredToBuy in cutejiuge/leetcode-practice/leetcode/LC2073.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestTotalCost in cutejiuge/leetcode-practice/leetcode/LC2462.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestTwoEggDrop in cutejiuge/leetcode-practice/leetcode/LC1884.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestWateringPlants in cutejiuge/leetcode-practice/leetcode/LC2079.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestWaysToReachStair in cutejiuge/leetcode-practice/leetcode/LC3154.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestWinningPlayerCount in cutejiuge/leetcode-practice/leetcode/LC3238.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.Test_numberOfSubstrings in cutejiuge/leetcode-practice/leetcode/race420_q2.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.Test_numberOfSubstrings/case1 in cutejiuge/leetcode-practice/leetcode/race420_q2.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.Test_stringSequence/case1 in cutejiuge/leetcode-practice/leetcode/race420_q1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lc__daily&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/wujie/myFiles/ReactCode/react-basic&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/leetcode/LC2924" />
@@ -173,7 +174,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC3305" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestSmallestRange in cutejiuge/leetcode-practice/leetcode/LC632">
+  <component name="RunManager" selected="Go Test.TestNetworkDelayTime in cutejiuge/leetcode-practice/leetcode/LC743">
     <configuration name="go build cutejiuge/leetcode-practice/race/weekly_425/q1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$" />
@@ -201,6 +202,18 @@
       <filePath value="$PROJECT_DIR$/race/weekly_425/q3/min_array_sum.go" />
       <method v="2" />
     </configuration>
+    <configuration name="TestNetworkDelayTime in cutejiuge/leetcode-practice/leetcode/LC743" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC743" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC743" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestNetworkDelayTime\E$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestSmallestRange in cutejiuge/leetcode-practice/leetcode/LC632" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC632" />
@@ -213,25 +226,13 @@
       <pattern value="^\QTestSmallestRange\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestWinningPlayerCount in cutejiuge/leetcode-practice/leetcode/LC3238" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$/leetcode/LC3238" />
-      <root_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/leetcode/LC3238" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestWinningPlayerCount\E$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestNetworkDelayTime in cutejiuge/leetcode-practice/leetcode/LC743" />
         <item itemvalue="Go Test.TestSmallestRange in cutejiuge/leetcode-practice/leetcode/LC632" />
         <item itemvalue="Go Build.go build cutejiuge/leetcode-practice/race/weekly_425/q3" />
         <item itemvalue="Go Build.go build cutejiuge/leetcode-practice/race/weekly_425/q2" />
         <item itemvalue="Go Build.go build cutejiuge/leetcode-practice/race/weekly_425/q1" />
-        <item itemvalue="Go Test.TestWinningPlayerCount in cutejiuge/leetcode-practice/leetcode/LC3238" />
       </list>
     </recent_temporary>
   </component>
