@@ -124,6 +124,7 @@
     &quot;Go Test.TestMinimumRefill in cutejiuge/leetcode-practice/leetcode/LC2105.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestMinimumRounds in cutejiuge/leetcode-practice/leetcode/LC2244.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestNeighborSum in cutejiuge/leetcode-practice/leetcode/LC3242.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestNetworkDelayTime in cutejiuge/leetcode-practice/leetcode/LC743.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestNextGreaterElements in cutejiuge/leetcode-practice/leetcode/LC503.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestNumFriendRequests in cutejiuge/leetcode-practice/leetcode/LC825.executor&quot;: &quot;Run&quot;,
     &quot;Go Test.TestNumOfPairs in cutejiuge/leetcode-practice/leetcode/LC2023.executor&quot;: &quot;Run&quot;,
@@ -174,16 +175,7 @@
       <recent name="$PROJECT_DIR$/leetcode/LC3305" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestNetworkDelayTime in cutejiuge/leetcode-practice/leetcode/LC743">
-    <configuration name="go build cutejiuge/leetcode-practice/race/weekly_425/q1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="letcode-practice" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="cutejiuge/leetcode-practice/race/weekly_425/q1" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/race/weekly_425/q1/minimum_sum_subarray.go" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Test.TestNumberOfAlternatingGroups in cutejiuge/leetcode-practice/leetcode/LC3206">
     <configuration name="go build cutejiuge/leetcode-practice/race/weekly_425/q2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$" />
@@ -214,6 +206,18 @@
       <pattern value="^\QTestNetworkDelayTime\E$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestNumberOfAlternatingGroups in cutejiuge/leetcode-practice/leetcode/LC3206" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="letcode-practice" />
+      <working_directory value="$PROJECT_DIR$/leetcode/LC3206" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cutejiuge/leetcode-practice/leetcode/LC3206" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestNumberOfAlternatingGroups\E$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestSmallestRange in cutejiuge/leetcode-practice/leetcode/LC632" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="letcode-practice" />
       <working_directory value="$PROJECT_DIR$/leetcode/LC632" />
@@ -228,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestNumberOfAlternatingGroups in cutejiuge/leetcode-practice/leetcode/LC3206" />
         <item itemvalue="Go Test.TestNetworkDelayTime in cutejiuge/leetcode-practice/leetcode/LC743" />
         <item itemvalue="Go Test.TestSmallestRange in cutejiuge/leetcode-practice/leetcode/LC632" />
         <item itemvalue="Go Build.go build cutejiuge/leetcode-practice/race/weekly_425/q3" />
         <item itemvalue="Go Build.go build cutejiuge/leetcode-practice/race/weekly_425/q2" />
-        <item itemvalue="Go Build.go build cutejiuge/leetcode-practice/race/weekly_425/q1" />
       </list>
     </recent_temporary>
   </component>
