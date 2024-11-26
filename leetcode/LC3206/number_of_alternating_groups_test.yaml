@@ -1,0 +1,7 @@
+case1:
+  colors: [1,1,1]
+  expect_res: 0
+
+case2:
+  colors: [0,1,0,0,1]
+  expect_res: 3
