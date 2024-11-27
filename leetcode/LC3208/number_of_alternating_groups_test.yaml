@@ -1,0 +1,14 @@
+case1:
+  colors: [0,1,0,1,0]
+  k: 3
+  expect_res: 3
+
+case2:
+  colors: [0,1,0,0,1,0,1]
+  k: 6
+  expect_res: 2
+
+case3:
+  colors:  [1,1,0,1]
+  k: 4
+  expect_res: 0
