@@ -4,7 +4,7 @@
  * @LastEditors: cutejiuge cutejiuge@163.com
  * @LastEditTime: 2024-03-12 01:10:01
  * @FilePath: /leetcode-practice/data_struct/lc_tree.go
- * @Description: 本文件实现leetcode常用的树结构及常用操作
+ * @Description: 本文件实现leetcode常用的树结构及常用操作 
  */
 package datastruct
 
