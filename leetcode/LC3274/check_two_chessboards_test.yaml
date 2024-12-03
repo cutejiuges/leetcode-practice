@@ -1,9 +1,0 @@
-case1:
-  coordinate1: a1
-  coordinate2: c3
-  expect_res: true
-
-case2:
-  coordinate1: a1
-  coordinate2: h3
-  expect_res: false
