@@ -1,0 +1,16 @@
+case1:
+  a: 1
+  b: 1
+  c: 8
+  d: 8
+  e: 2
+  f: 3
+  expect_res: 2
+case2:
+  a: 5
+  b: 3
+  c: 3
+  d: 4
+  e: 5
+  f: 2
+  expect_res: 1
