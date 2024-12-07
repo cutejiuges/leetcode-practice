@@ -1,0 +1,13 @@
+case1:
+  n: 3
+  k: 2
+  row: 0
+  column: 0
+  expect_res: 0.0625
+
+case2:
+  n: 1
+  k: 0
+  row: 0
+  column: 0
+  expect_res: 1
