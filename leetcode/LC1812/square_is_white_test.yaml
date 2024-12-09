@@ -1,0 +1,11 @@
+case1:
+  coordinates: "a1"
+  expect_res: false
+
+case2:
+  coordinates: "h3"
+  expect_res: true
+
+case3:
+  coordinates: "c7"
+  expect_res: false
