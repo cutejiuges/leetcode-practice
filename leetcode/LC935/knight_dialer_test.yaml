@@ -1,0 +1,11 @@
+case1:
+  n: 1
+  expect_res: 10
+
+case2:
+  n: 2
+  expect_res: 20
+
+case3:
+  n: 3131
+  expect_res: 136006598
