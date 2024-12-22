@@ -1,0 +1,11 @@
+case1:
+  lo: 12
+  hi: 15
+  k: 2
+  expect_res: 13
+
+case2:
+  lo: 7
+  hi: 11
+  k: 4
+  expect_res: 7
