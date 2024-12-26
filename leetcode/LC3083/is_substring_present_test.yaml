@@ -1,0 +1,11 @@
+case1:
+  s: "leetcode"
+  expect_res: true
+
+case2:
+  s: "abcba"
+  expect_res: true
+
+case3:
+  s: "abcd"
+  expect_res: false
