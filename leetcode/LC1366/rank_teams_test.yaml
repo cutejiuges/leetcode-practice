@@ -1,0 +1,11 @@
+case1:
+  votes: ["ABC","ACB","ABC","ACB","ACB"]
+  expect_res: "ACB"
+
+case2:
+  votes: ["WXYZ","XYZW"]
+  expect_res: "XWYZ"
+
+case3:
+  votes: ["ZMNAGUEDSJYLBOPHRQICWFXTVK"]
+  expect_res: "ZMNAGUEDSJYLBOPHRQICWFXTVK"
