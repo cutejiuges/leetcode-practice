@@ -1,0 +1,11 @@
+case1:
+  bottom: 2
+  top: 9
+  special: [4, 6]
+  expect_res: 3
+
+case2:
+  bottom: 6
+  top: 8
+  special: [7, 6, 8]
+  expect_res: 0
