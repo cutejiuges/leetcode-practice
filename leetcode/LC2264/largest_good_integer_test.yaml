@@ -1,0 +1,11 @@
+case1:
+  num: "6777133339"
+  expect_res: "777"
+
+case2:
+  num: "2300019"
+  expect_res: "000"
+
+case3:
+  num: "42352338"
+  expect_res: ""
