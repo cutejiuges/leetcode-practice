@@ -1,0 +1,14 @@
+case1:
+  word1: "bcca"
+  word2: "abc"
+  expect_res: 1
+
+case2:
+  word1: "abcabc"
+  word2: "abc"
+  expect_res: 10
+
+case3:
+  word1: "abcabc"
+  word2: "aaabc"
+  expect_res: 0
