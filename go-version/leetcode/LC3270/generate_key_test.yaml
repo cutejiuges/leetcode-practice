@@ -1,0 +1,17 @@
+case1:
+  num1: 1
+  num2: 10
+  num3: 1000
+  expect_res: 0
+
+case2:
+  num1: 987
+  num2: 879
+  num3: 798
+  expect_res: 777
+
+case3:
+  num1: 1
+  num2: 2
+  num3: 3
+  expect_res: 1
