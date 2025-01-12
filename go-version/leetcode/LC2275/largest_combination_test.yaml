@@ -1,0 +1,7 @@
+case1:
+  candidates: [16,17,71,62,12,24,14]
+  expect_res: 4
+
+case2:
+  candidates: [8,8]
+  expect_res: 2
