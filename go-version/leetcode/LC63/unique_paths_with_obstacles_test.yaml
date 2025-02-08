@@ -1,0 +1,7 @@
+case1:
+  obstacle_grid: [[0,0,0],[0,1,0],[0,0,0]]
+  expect_res: 2
+
+case2:
+  obstacle_grid: [[0,1],[0,0]]
+  expect_res: 1
