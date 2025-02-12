@@ -1,0 +1,14 @@
+case1:
+  nums: [9]
+  max_operations: 2
+  expect_res: 3
+
+case2:
+  nums: [2,4,8,2]
+  max_operations: 4
+  expect_res: 2
+
+case3:
+  nums: [7,17]
+  max_operations: 2
+  expect_res: 7
