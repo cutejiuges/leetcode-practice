@@ -1,0 +1,14 @@
+case1:
+  low_limit: 1
+  high_limit: 10
+  expect_res: 2
+
+case2:
+  low_limit: 5
+  high_limit: 15
+  expect_res: 2
+
+case3:
+  low_limit: 19
+  high_limit: 28
+  expect_res: 2
