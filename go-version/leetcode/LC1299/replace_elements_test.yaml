@@ -1,0 +1,7 @@
+case1:
+  arr: [17,18,5,4,6,1]
+  expect_res: [18,6,6,6,1,-1]
+
+case2:
+  arr: [400]
+  expect_res: [-1]
