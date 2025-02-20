@@ -1,0 +1,7 @@
+case1:
+  n: 50
+  expect_res: [1, 2]
+
+case2:
+  n: 2
+  expect_res: [0, 1]
