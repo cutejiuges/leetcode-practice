@@ -1,0 +1,11 @@
+case1:
+  words: ["aba","aabb","abcd","bac","aabc"]
+  expect_res: 2
+
+case2:
+  words: ["aabb","ab","ba"]
+  expect_res: 3
+
+case3:
+  words: ["nba","cba","dba"]
+  expect_res: 0
