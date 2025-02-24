@@ -1,0 +1,4 @@
+case1:
+  nums: [5, 3, 1, 2 ,5 ,4]
+  strings: ["ccccc", "aaaaa", "bbbbb", "eeeee", "ddddd"]
+  expect_res: [[], ["aaaaa"], ["bbbbb", "ccccc"], [], ["ddddd", "eeeee"]]
