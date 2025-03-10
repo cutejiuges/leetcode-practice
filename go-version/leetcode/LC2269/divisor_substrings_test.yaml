@@ -1,0 +1,9 @@
+case1:
+  num: 240
+  k: 2
+  expect_res: 2
+
+case2:
+  num: 430043
+  k: 2
+  expect_res: 2
