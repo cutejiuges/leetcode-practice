@@ -1,0 +1,14 @@
+case1:
+  word: "aeioqq"
+  k: 1
+  expect_res: 0
+
+case2:
+  word: "aeiou"
+  k: 0
+  expect_res: 1
+
+case3:
+  word: "ieaouqqieaouqq"
+  k: 1
+  expect_res: 3
