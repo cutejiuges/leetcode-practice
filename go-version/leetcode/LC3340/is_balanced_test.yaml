@@ -1,0 +1,7 @@
+case1:
+  num: "1234"
+  expect_res: false
+
+case2:
+  num: "24123"
+  expect_res: true
