@@ -1,0 +1,7 @@
+case1:
+  s: "hello"
+  expect_res: 13
+
+case2:
+  s: "zaz"
+  expect_res: 50
