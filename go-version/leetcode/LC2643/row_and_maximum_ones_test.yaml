@@ -1,0 +1,11 @@
+case1:
+  mat: [[0,1],[1,0]]
+  expect_res: [0,1]
+
+case2:
+  mat: [[0,0,0],[0,1,1]]
+  expect_res: [1,2]
+
+case3:
+  mat: [[0,0],[1,1],[0,0]]
+  expect_res: [1,2]
