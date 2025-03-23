@@ -1,0 +1,19 @@
+case1:
+  s: "))()))"
+  locked: "010100"
+  expect_res: true
+
+case2:
+  s: "()()"
+  locked: "0000"
+  expect_res: true
+
+case3:
+  s: ")"
+  locked: "0"
+  expect_res: false
+
+case4:
+  s: "(((())(((())"
+  locked: "111111010111"
+  expect_res: true
