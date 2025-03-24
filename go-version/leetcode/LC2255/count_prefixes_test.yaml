@@ -1,0 +1,9 @@
+case1:
+  words: ["a","b","c","ab","bc","abc"]
+  s: "abc"
+  expect_res: 3
+
+case2:
+  words: ["a","a"]
+  s: "aa"
+  expect_res: 2
