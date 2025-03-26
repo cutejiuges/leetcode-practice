@@ -1,0 +1,9 @@
+case1:
+  n: 5
+  k: 4
+  expect_res: 18
+
+case2:
+  n: 2
+  k: 6
+  expect_res: 3
