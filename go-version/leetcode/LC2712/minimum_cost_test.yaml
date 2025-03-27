@@ -1,0 +1,7 @@
+case1:
+  s: "0011"
+  expect_res: 2
+
+case2:
+  s: "010101"
+  expect_res: 9
