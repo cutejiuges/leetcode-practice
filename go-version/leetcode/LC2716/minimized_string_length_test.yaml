@@ -1,0 +1,11 @@
+case1:
+  s: "aaabc"
+  expect_res: 3
+
+case2:
+  s: "cbbd"
+  expect_res: 3
+
+case3:
+  s: "aaaddd"
+  expect_res: 2
