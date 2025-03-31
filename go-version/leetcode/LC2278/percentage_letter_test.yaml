@@ -1,0 +1,9 @@
+case1:
+  s: "foobar"
+  letter: "o"
+  expect_res: 33
+
+case2:
+  s: "jjjj"
+  letter: k
+  expect_res: 0
