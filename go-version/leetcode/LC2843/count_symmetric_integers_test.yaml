@@ -1,0 +1,9 @@
+case1:
+  low: 1
+  high: 100
+  expect_res: 9
+
+case2:
+  low: 1200
+  high: 1230
+  expect_res: 4
