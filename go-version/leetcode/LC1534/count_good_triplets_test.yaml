@@ -1,0 +1,13 @@
+case1:
+  arr: [3,0,1,1,9,7]
+  a: 7
+  b: 2
+  c: 3
+  expect_res: 4
+
+case2:
+  arr: [1,1,2,2,3]
+  a: 0
+  b: 0
+  c: 1
+  expect_res: 0
