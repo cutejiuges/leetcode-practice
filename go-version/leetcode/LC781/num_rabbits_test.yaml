@@ -1,0 +1,7 @@
+case1:
+  answer: [1,1,2]
+  expect_res: 5
+
+case2:
+  answer: [10,10,10]
+  expect_res: 11
