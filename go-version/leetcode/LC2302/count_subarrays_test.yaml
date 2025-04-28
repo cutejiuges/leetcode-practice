@@ -1,0 +1,9 @@
+case1:
+  nums: [2,1,4,3,5]
+  k: 10
+  expect_res: 6
+
+case2:
+  nums: [1,1,1]
+  k: 5
+  expect_res: 5
