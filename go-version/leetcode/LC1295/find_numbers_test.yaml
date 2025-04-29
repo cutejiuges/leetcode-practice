@@ -1,0 +1,7 @@
+case1:
+  nums: [12,345,2,6,7896]
+  expect_res: 2
+
+case2:
+  nums: [555,901,482,1771]
+  expect_res: 1
