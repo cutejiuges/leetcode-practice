@@ -1,0 +1,7 @@
+case1:
+  dominoes: "RR.L"
+  expect_res: "RR.L"
+
+case2:
+  dominoes: ".L.R...LR..L.."
+  expect_res: "LL.RR.LLRRLL.."
