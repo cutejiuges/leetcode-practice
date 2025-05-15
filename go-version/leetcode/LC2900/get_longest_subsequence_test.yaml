@@ -1,0 +1,9 @@
+case1:
+  words: ["e","a","b"]
+  groups: [0,0,1]
+  expect_res: ["e","b"]
+
+case2:
+  words: ["a","b","c","d"]
+  groups: [1,0,1,1]
+  expect_res: ["a","b","c"]
