@@ -1,0 +1,7 @@
+case1:
+  nums: [3,3,3]
+  expect_res: equilateral
+
+case2:
+  nums: [3,4,5]
+  expect_res: scalene
