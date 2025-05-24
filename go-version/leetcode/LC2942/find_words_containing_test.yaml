@@ -1,0 +1,14 @@
+case1:
+  words: ["leet","code"]
+  x: e
+  expect_res: [0,1]
+
+case2:
+  words: ["abc","bcd","aaaa","cbc"]
+  x: a
+  expect_res: [0,2]
+
+case3:
+  words: ["abc","bcd","aaaa","cbc"]
+  x: z
+  expect_res: []
