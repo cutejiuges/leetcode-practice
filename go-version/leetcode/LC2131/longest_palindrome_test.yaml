@@ -1,0 +1,11 @@
+case1:
+  words: ["lc","cl","gg"]
+  expect_res: 6
+
+case2:
+  words: ["ab","ty","yt","lc","cl","ab"]
+  expect_res: 8
+
+case3:
+  words:  ["cc","ll","xx"]
+  expect_res: 2
