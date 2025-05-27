@@ -1,0 +1,14 @@
+case1:
+  n: 10
+  m: 3
+  expect_res: 19
+
+case2:
+  n: 5
+  m: 6
+  expect_res: 15
+
+case3:
+  n: 5
+  m: 1
+  expect_res: -15
