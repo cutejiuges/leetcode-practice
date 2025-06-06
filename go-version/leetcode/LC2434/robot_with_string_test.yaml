@@ -1,0 +1,11 @@
+case1:
+  s: zza
+  expect_res: azz
+
+case2:
+  s: bac
+  expect_res: abc
+
+case3:
+  s: bdda
+  expect_res: addb
