@@ -1,0 +1,11 @@
+case1:
+  s: "aaba*"
+  expect_res: "aab"
+
+case2:
+  s: abc
+  expect_res: abc
+
+case3:
+  s: d*o*
+  expect_res: ""
