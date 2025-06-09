@@ -1,0 +1,14 @@
+case1:
+  n: 13
+  k: 2
+  expect_res: 10
+
+case2:
+  n: 1
+  k: 1
+  expect_res: 1
+
+case3:
+  n: 681692778
+  k: 351251360
+  expect_res: 416126219
