@@ -1,0 +1,7 @@
+case1:
+  s: "aaaaabbc"
+  expect_res: 3
+
+case2:
+  s: "abcabcab"
+  expect_res: 1
