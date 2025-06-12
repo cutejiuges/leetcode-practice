@@ -28,3 +28,10 @@ func Gcd(a, b int) int {
 	}
 	return Gcd(b, a%b)
 }
+
+func Abs[T int | float32 | float64](x T) T {
+	if x < 0 {
+		return -x
+	}
+	return x
+}
