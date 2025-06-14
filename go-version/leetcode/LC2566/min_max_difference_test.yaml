@@ -1,0 +1,7 @@
+case1:
+  num: 11891
+  expect_res: 99009
+
+case2:
+  num: 90
+  expect_res: 99
