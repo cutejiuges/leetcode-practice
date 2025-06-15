@@ -1,0 +1,19 @@
+case1:
+  num: 555
+  expect_res: 888
+
+case2:
+  num: 9
+  expect_res: 8
+
+case3:
+  num: 123456
+  expect_res: 820000
+
+case4:
+  num: 10000
+  expect_res: 80000
+
+case5:
+  num: 9288
+  expect_res: 8700
