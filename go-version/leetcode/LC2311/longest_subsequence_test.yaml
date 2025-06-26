@@ -1,0 +1,9 @@
+case1:
+  s: "1001010"
+  k: 5
+  expect_res: 5
+
+case2:
+  s: "00101001"
+  k: 1
+  expect_res: 6
