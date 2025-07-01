@@ -1,0 +1,11 @@
+case1:
+  word: "abbcccc"
+  expect_res: 5
+
+case2:
+  word: "abcd"
+  expect_res: 1
+
+case3:
+  word: "aaaa"
+  expect_res: 4
