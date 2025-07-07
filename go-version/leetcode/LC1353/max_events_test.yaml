@@ -1,0 +1,7 @@
+case1:
+  events: [[1,2],[2,3],[3,4]]
+  expect_res: 3
+
+case2:
+  events: [[1,2],[2,3],[3,4],[1,2]]
+  expect_res: 4
