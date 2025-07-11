@@ -1,0 +1,14 @@
+case1:
+  days: 10
+  meetings: [[5,7],[1,3],[9,10]]
+  expect_res: 2
+
+case2:
+  days: 5
+  meetings: [[2,4],[1,3]]
+  expect_res: 1
+
+case3:
+  days: 6
+  meetings: [[1,6]]
+  expect_res: 0
