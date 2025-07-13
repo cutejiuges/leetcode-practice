@@ -1,0 +1,9 @@
+case1:
+  players: [4,7,9]
+  trainers: [8,2,5,8]
+  expect_res: 2
+
+case2:
+  players: [1,1,1]
+  trainers: [10]
+  expect_res: 1
