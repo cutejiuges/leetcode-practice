@@ -1,0 +1,11 @@
+case1:
+  word: 234Adas
+  expect_res: true
+
+case2:
+  word: b3
+  expect_res: false
+
+case3:
+  word: a3$e
+  expect_res: false
