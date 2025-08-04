@@ -1,0 +1,15 @@
+case1:
+  fruits: [1,2,1]
+  expect_res: 3
+
+case2:
+  fruits: [0,1,2,2]
+  expect_res: 3
+
+case3:
+  fruits: [1,2,3,2,2]
+  expect_res: 4
+
+case4:
+  fruits: [3,3,3,1,2,1,1,2,3,3,4]
+  expect_res: 5
