@@ -1,0 +1,9 @@
+case1:
+  fruits: [4,2,5]
+  baskets: [3,5,4]
+  expect_res: 1
+
+case2:
+  fruits: [3,6,1]
+  baskets: [6,4,7]
+  expect_res: 0
