@@ -1,0 +1,9 @@
+case1:
+  n: 15
+  queries: [[0,1],[2,2],[0,3]]
+  expect_res: [2,4,64]
+
+case2:
+  n: 2
+  queries: [[0,0]]
+  expect_res: [2]
