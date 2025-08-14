@@ -1,0 +1,11 @@
+case1:
+  n: 12
+  expect_res: true
+
+case2:
+  n: 91
+  expect_res: true
+
+case3:
+  n: 21
+  expect_res: false
