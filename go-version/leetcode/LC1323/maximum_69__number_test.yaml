@@ -1,0 +1,11 @@
+case1:
+  num: 9669
+  expect_res: 9969
+
+case2:
+  num: 9996
+  expect_res: 9999
+
+case3:
+  num: 9999
+  expect_res: 9999
