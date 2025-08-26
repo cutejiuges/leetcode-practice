@@ -1,0 +1,7 @@
+case1:
+  dimensions: [[9,3],[8,6]]
+  expect_res: 48
+
+case2:
+  dimensions: [[3,4],[4,3]]
+  expect_res: 12
