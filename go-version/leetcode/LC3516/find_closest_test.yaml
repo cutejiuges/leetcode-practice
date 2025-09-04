@@ -1,0 +1,17 @@
+case1:
+  x: 2
+  y: 7
+  z: 4
+  expect_res: 1
+
+case2:
+  x: 2
+  y: 5
+  z: 6
+  expect_res: 2
+
+case3:
+  x: 1
+  y: 5
+  z: 3
+  expect_res: 0
