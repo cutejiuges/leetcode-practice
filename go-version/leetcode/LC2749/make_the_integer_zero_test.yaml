@@ -1,0 +1,9 @@
+case1:
+  num1: 3
+  num2: -2
+  expect_res: 3
+
+case2:
+  num1: 5
+  num2: 7
+  expect_res: -1
