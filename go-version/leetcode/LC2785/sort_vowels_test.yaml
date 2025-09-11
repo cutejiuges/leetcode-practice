@@ -1,0 +1,7 @@
+case1:
+  s: "lEetcOde"
+  expect_res: "lEOtcede"
+
+case2:
+  s: "lYmpH"
+  expect_res: "lYmpH"
