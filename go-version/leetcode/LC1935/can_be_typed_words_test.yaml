@@ -1,0 +1,14 @@
+case1:
+  text: "hello world"
+  broken_letters: "ad"
+  expect_res: 1
+
+case2:
+  text: "leet code"
+  broken_letters: "lt"
+  expect_res: 1
+
+case3:
+  text: "leet code"
+  broken_letters: "e"
+  expect_res: 0
