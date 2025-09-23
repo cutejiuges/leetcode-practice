@@ -1,0 +1,14 @@
+case1:
+  version1: "1.01"
+  version2: "1.001"
+  expect_res: 0
+
+case2:
+  version1: "1.2"
+  version2: "1.10"
+  expect_res: -1
+
+case3:
+  version1: "1.0"
+  version2: "1.0.0.0"
+  expect_res: 0
