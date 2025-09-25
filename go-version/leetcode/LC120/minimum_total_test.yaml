@@ -1,0 +1,7 @@
+case1:
+  triangle: [[2],[3,4],[6,5,7],[4,1,8,3]]
+  expect_res: 11
+
+case2:
+  triangle: [[-10]]
+  expect_res: -10
