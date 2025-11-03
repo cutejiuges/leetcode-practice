@@ -1,0 +1,14 @@
+case1:
+  colors: "abaac"
+  needed_time: [1,2,3,4,5]
+  expect_res: 3
+
+case2:
+  colors: "abc"
+  needed_time: [1,2,3]
+  expect_res: 0
+
+case3:
+  colors: "aabaa"
+  needed_time: [1,2,3,4,1]
+  expect_res: 2
