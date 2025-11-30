@@ -1,0 +1,24 @@
+case1:
+  nums: [3,1,4,2]
+  p: 6
+  expect_res: 1
+
+case2:
+  nums: [6,3,5,2]
+  p: 9
+  expect_res: 2
+
+case3:
+  nums: [1,2,3]
+  p: 3
+  expect_res: 0
+
+case4:
+  nums: [1,2,3]
+  p: 7
+  expect_res: -1
+
+case5:
+  nums: [1000000000, 1000000000, 1000000000]
+  p: 3
+  expect_res: 0
