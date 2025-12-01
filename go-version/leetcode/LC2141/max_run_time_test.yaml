@@ -1,0 +1,9 @@
+case1:
+  n: 2
+  batteries: [3,3,3]
+  expect_res: 4
+
+case2:
+  n: 2
+  batteries: [1,1,1,1]
+  expect_res: 2
