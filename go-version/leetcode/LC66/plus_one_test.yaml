@@ -1,0 +1,11 @@
+case1:
+  digits: [1,2,3]
+  expect_res: [1,2,4]
+
+case2:
+  digits: [4,3,2,1]
+  expect_res: [4,3,2,2]
+
+case3:
+  digits: [9]
+  expect_res: [1,0]
