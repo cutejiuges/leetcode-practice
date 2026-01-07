@@ -1,5 +1,7 @@
 package com.github.leetcode.LC1161;
 
+import com.github.datastruct.TreeNode;
+
 import java.util.ArrayDeque;
 import java.util.Queue;
 
@@ -9,22 +11,6 @@ import java.util.Queue;
  * @author cutejiuge
  * @since 2026/1/6 下午8:39
  */
-
-// Definition for a binary tree node.
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode() {}
-    TreeNode(int val) { this.val = val; }
-    TreeNode(int val, TreeNode left, TreeNode right) {
-        this.val = val;
-        this.left = left;
-        this.right = right;
-    }
-}
-
-
 public class Solution {
     public int maxLevelSum(TreeNode root) {
         int ans = 0, layer = 0;
