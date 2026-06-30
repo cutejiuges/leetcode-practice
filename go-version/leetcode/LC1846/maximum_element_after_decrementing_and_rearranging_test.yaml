@@ -1,0 +1,11 @@
+case1:
+  arr: [2,2,1,2,1]
+  expect_res: 2
+
+case2:
+  arr: [100,1,1000]
+  expect_res: 3
+
+case3:
+  arr: [1,2,3,4,5]
+  expect_res: 5
