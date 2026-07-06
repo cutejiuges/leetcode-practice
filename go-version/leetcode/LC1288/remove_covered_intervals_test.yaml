@@ -1,0 +1,7 @@
+case1:
+  intervals: [[1,4],[3,6],[2,8]]
+  expect_res: 2
+
+case2:
+  intervals: [[1,2],[1,4],[3,4]]
+  expect_res: 1
