@@ -1,0 +1,7 @@
+case1:
+  n: 10203004
+  expect_res: 12340
+
+case2:
+  n: 1000
+  expect_res: 1
