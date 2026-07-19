@@ -1,0 +1,7 @@
+case1:
+  s: bcabc
+  expectRes: abc
+
+case2:
+  s: cbacdcbc
+  expectRes: acdb
